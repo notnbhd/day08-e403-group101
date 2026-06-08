@@ -1,0 +1,90 @@
+{
+  "converted_at": "2026-06-08T11:27:31.180614+00:00",
+  "landing_dir": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing",
+  "output_dir": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized",
+  "total_converted": 15,
+  "total_failed": 0,
+  "total_skipped": 2,
+  "converted": [
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\legal\\bo_luat_hinh_su_100_2015_QH13_2015.pdf",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\legal\\bo_luat_hinh_su_100_2015_QH13_2015.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\legal\\luat_phong_chong_ma_tuy_73_2021_QH14_2021.pdf",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\legal\\luat_phong_chong_ma_tuy_73_2021_QH14_2021.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\legal\\luat_sua_doi_bo_luat_hinh_su_12_2017_QH14_2017.pdf",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\legal\\luat_sua_doi_bo_luat_hinh_su_12_2017_QH14_2017.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\legal\\manifest_legal_sources.json",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\legal\\manifest_legal_sources.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\legal\\nghi_dinh_105_2021_ND_CP_2021.pdf",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\legal\\nghi_dinh_105_2021_ND_CP_2021.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\legal\\nghi_dinh_57_2022_ND_CP_2022.pdf",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\legal\\nghi_dinh_57_2022_ND_CP_2022.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_01_tuoitre_vn_b_t_ca_s_long_nh_t_v_ca_s_s_n_ng_c_minh_v_li_n_quan_ma_t_y_tu_i_tre_on_db970f647b.json",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\news\\article_01_tuoitre_vn_b_t_ca_s_long_nh_t_v_ca_s_s_n_ng_c_minh_v_li_n_quan_ma_t_y_tu_i_tre_on_db970f647b.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_02_tuoitre_vn_kh_i_t_3_b_can_trong_v_ca_s_miu_l_s_d_ng_ma_t_y_c_t_b_tu_i_tre_online_ecbce1c866.json",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\news\\article_02_tuoitre_vn_kh_i_t_3_b_can_trong_v_ca_s_miu_l_s_d_ng_ma_t_y_c_t_b_tu_i_tre_online_ecbce1c866.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_03_dantri_com_vn_ca_s_miu_l_b_b_t_qu_tang_s_d_ng_ma_t_y_h_i_ph_ng_b_o_d_n_tr_ee306dd2ea.json",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\news\\article_03_dantri_com_vn_ca_s_miu_l_b_b_t_qu_tang_s_d_ng_ma_t_y_h_i_ph_ng_b_o_d_n_tr_ee306dd2ea.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_04_dantri_com_vn_truy_t_ca_s_chi_d_n_ng_i_m_u_an_t_y_b_o_d_n_tr_de11948a19.json",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\news\\article_04_dantri_com_vn_truy_t_ca_s_chi_d_n_ng_i_m_u_an_t_y_b_o_d_n_tr_de11948a19.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_05_dantri_com_vn_nh_ng_ngh_s_vi_t_lao_ao_v_d_nh_v_o_ma_t_y_b_o_d_n_tr_83d0338dc2.json",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\news\\article_05_dantri_com_vn_nh_ng_ngh_s_vi_t_lao_ao_v_d_nh_v_o_ma_t_y_b_o_d_n_tr_83d0338dc2.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_06_vietnamnet_vn_chi_d_n_an_t_y_tr_c_ph_ng_l_nh_ng_m_t_x_ch_cu_i_trong_ng_d_y_ma_t_y_2a9b43c5ed.json",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\news\\article_06_vietnamnet_vn_chi_d_n_an_t_y_tr_c_ph_ng_l_nh_ng_m_t_x_ch_cu_i_trong_ng_d_y_ma_t_y_2a9b43c5ed.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_07_thanhnien_vn_chuy_n_n_b_s_vn10_truy_t_ng_i_m_u_an_t_y_ca_s_chi_d_n_c_ti_n_tr_c_ph_n_5f0ce6d2fa.json",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\news\\article_07_thanhnien_vn_chuy_n_n_b_s_vn10_truy_t_ng_i_m_u_an_t_y_ca_s_chi_d_n_c_ti_n_tr_c_ph_n_5f0ce6d2fa.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_08_plo_vn_truy_t_ca_s_chi_d_n_ng_i_m_u_an_t_y_v_225_b_can_v_4_ti_p_vi_n_h_ng_kh__a58ec0066f.json",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\news\\article_08_plo_vn_truy_t_ca_s_chi_d_n_ng_i_m_u_an_t_y_v_225_b_can_v_4_ti_p_vi_n_h_ng_kh__a58ec0066f.md",
+      "status": "success"
+    },
+    {
+      "input": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\manifest_news_sources.json",
+      "output": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\standardized\\news\\manifest_news_sources.md",
+      "status": "success"
+    }
+  ],
+  "failed": [],
+  "skipped": [
+    "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\legal\\.gitkeep",
+    "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\.gitkeep"
+  ]
+}

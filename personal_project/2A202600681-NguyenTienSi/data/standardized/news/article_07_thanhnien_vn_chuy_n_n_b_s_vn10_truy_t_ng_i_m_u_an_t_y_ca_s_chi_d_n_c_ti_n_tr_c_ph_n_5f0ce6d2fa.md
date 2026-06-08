@@ -1,0 +1,208 @@
+# Chuyên án bí số VN10: Truy tố người mẫu An Tây, ca sĩ Chi Dân, 'cô tiên' Trúc Phương
+
+## Metadata
+
+- **source_file:** `article_07_thanhnien_vn_chuy_n_n_b_s_vn10_truy_t_ng_i_m_u_an_t_y_ca_s_chi_d_n_c_ti_n_tr_c_ph_n_5f0ce6d2fa.json`
+- **source_path:** `D:\Code\VinAI\day08-e403-group101\personal_project\2A202600681-NguyenTienSi\data\landing\news\article_07_thanhnien_vn_chuy_n_n_b_s_vn10_truy_t_ng_i_m_u_an_t_y_ca_s_chi_d_n_c_ti_n_tr_c_ph_n_5f0ce6d2fa.json`
+- **converted_at:** `2026-06-08T11:27:31.173614+00:00`
+- **url:** https://thanhnien.vn/chuyen-an-bi-so-vn10-truy-to-nguoi-mau-an-tay-ca-si-chi-dan-truc-phuong-185260402125551927.htm
+- **source_domain:** thanhnien.vn
+- **published_date:** 2026-04-02T13:05:00+07:00
+- **date_crawled:** 2026-06-08T11:25:23.752605+00:00
+- **original_extension:** .json
+- **converter:** json_article_converter
+
+---
+[ Bạn cần biết ](https://thanhnien.vn/ban-can-biet.htm "Bạn cần biết") [ Tiện ích ](https://thanhnien.vn/tien-ich/thoi-tiet.htm "Tiện ích") [ Liên hệ ](https://thanhnien.vn/lien-he.htm "Liên hệ")
+Theo dõi báo trên
+[ ![Youtube](https://thanhnien-static.mediacdn.vn/thanhnien.vn/image/icon_youtube_fill.svg) ](https://www.youtube.com/channel/UCIW9cGgoRuGJnky3K3tbzNg "Youtube") [ ![Facebook](https://thanhnien-static.mediacdn.vn/thanhnien.vn/image/icon_facebook_full_color.svg) ](https://www.facebook.com/thanhnien "Facebook") [ ![Tiktok](https://thanhnien-static.mediacdn.vn/thanhnien.vn/image/Icon_Tiktok_fill.svg) ](https://www.tiktok.com/@baothanhnien.official "Tiktok") [ ![Zalo](https://thanhnien-static.mediacdn.vn/thanhnien.vn/image/icon_zalo_full_color.svg) ](https://zalo.me/2431025964363015388 "Zalo")
+[ ](javascript:;)
+[ ![Báo thanh niên](https://static.thanhnien.com.vn/thanhnien.vn/image/logo-40-nam-trang-chu.svg) ](https://thanhnien.vn/ "Báo thanh niên")
+[ Quảng cáo ](https://banggia.thanhnien.vn/ "Quảng cáo") [ Đặt báo ](https://datbao.thanhnien.vn/ "Đặt báo") [ Đăng nhập ](https://my.thanhnien.vn/page/login.html?redirect_url=https://thanhnien.vn/chuyen-an-bi-so-vn10-truy-to-nguoi-mau-an-tay-ca-si-chi-dan-truc-phuong-185260402125551927.htm "Đăng nhập")
+[ ![avatar-user](https://static.thanhnien.com.vn/thanhnien.vn/image/ava_inter.png) ](https://my.thanhnien.vn/)
+Bình luận mới được duyệt [Xem tất cả](https://my.thanhnien.vn/binh-luan "Xem tất cả")
+[ Thông tin tài khoản ](https://my.thanhnien.vn/ "Thông tin tài khoản") [ Đổi mật khẩu ](https://my.thanhnien.vn/doi-mat-khau "Đổi mật khẩu") [ Tin đã lưu ](https://my.thanhnien.vn/tin-da-luu "Tin đã lưu") [ Tin đã xem ](https://my.thanhnien.vn/tin-da-xem "Tin đã xem") [ Đăng xuất ](javascript:; "Đăng xuất")
+  * [ ](https://thanhnien.vn/ "Trang chủ")
+  * [ Chính trị ](https://thanhnien.vn/chinh-tri.htm "Chính trị")
+[Chính trị](javascript:; "title")
+  * [ Thời sự ](https://thanhnien.vn/thoi-su.htm "Thời sự")
+[Thời sự](javascript:; "title")
+  * [ Thế giới ](https://thanhnien.vn/the-gioi.htm "Thế giới")
+[Thế giới](javascript:; "title")
+  * [ Kinh tế ](https://thanhnien.vn/kinh-te.htm "Kinh tế")
+[Kinh tế](javascript:; "title")
+  * [ Đời sống ](https://thanhnien.vn/doi-song.htm "Đời sống")
+[Đời sống](javascript:; "title")
+  * [ Sức khỏe ](https://thanhnien.vn/suc-khoe.htm "Sức khỏe")
+[Sức khỏe](javascript:; "title")
+  * [ Giới trẻ ](https://thanhnien.vn/gioi-tre.htm "Giới trẻ")
+[Giới trẻ](javascript:; "title")
+  * [ Giáo dục ](https://thanhnien.vn/giao-duc.htm "Giáo dục")
+[Giáo dục](javascript:; "title")
+  * [ Du lịch ](https://thanhnien.vn/du-lich.htm "Du lịch")
+[Du lịch](javascript:; "title")
+  * [ Văn hóa ](https://thanhnien.vn/van-hoa.htm "Văn hóa")
+[Văn hóa](javascript:; "title")
+  * [ Giải trí ](https://thanhnien.vn/giai-tri.htm "Giải trí")
+[Giải trí](javascript:; "title")
+  * [ Thể thao ](https://thanhnien.vn/the-thao.htm "Thể thao")
+[Thể thao](javascript:; "title")
+  * [ Công nghệ ](https://thanhnien.vn/cong-nghe.htm "Công nghệ")
+[Công nghệ - Game](javascript:; "title")
+  * [ Xe ](https://thanhnien.vn/xe.htm "Xe")
+[Xe](javascript:; "title")
+  * [ Video ](https://thanhnien.vn/video.htm "Video")
+[Video](javascript:; "title")
+  * [Tiêu dùng](https://thanhnien.vn/tieu-dung-thong-minh.htm "Tiêu dùng thông minh")
+[Tiêu dùng](javascript:; "title")
+  * [ Thời trang trẻ ](https://thanhnien.vn/thoi-trang-tre.htm "Thời trang trẻ")
+[Thời trang trẻ](javascript:; "title")
+
+
+Đóng menu 
+[ Chào ngày mới ](https://thanhnien.vn/chao-ngay-moi.htm "Chào ngày mới") [ Tin 24h ](https://thanhnien.vn/tin-24h.htm "Tin 24h") [ Tin thị trường ](https://thanhnien.vn/thi-truong.htm "Tin thị trường") [ Tin 360 ](https://thanhnien.vn/tin-nhanh-360.htm "Tin 360")
+[ Video ](https://thanhnien.vn/video.htm "Video") [ Magazine ](https://thanhnien.vn/magazine.htm "Magazine")
+[ Tiện ích ](https://thanhnien.vn/tien-ich/thoi-tiet.htm "Tiện ích") [ Bạn cần biết ](https://thanhnien.vn/ban-can-biet.htm "Bạn cần biết") [ Liên hệ ](https://thanhnien.vn/lien-he.htm "Liên hệ") [ Thông tin toà soạn ](https://thanhnien.vn/thong-tin-toa-soan.html "Thông tin toà soạn") [ Liên hệ quảng cáo ](https://banggia.thanhnien.vn/ "Liên hệ quảng cáo")
+[ ](https://www.facebook.com/thanhnien "Facebook") [ ](https://zalo.me/2431025964363015388 "Zalo") [ ](https://www.youtube.com/channel/UCIW9cGgoRuGJnky3K3tbzNg "Youtube")
+[ ](javascript:; "Copy link") [ ](javacript:; "Bình luận") [ ](javascript:; "Lưu tin") [ ](javascript:; "In")
+[Thời sự](https://thanhnien.vn/thoi-su.htm "Thời sự")
+#  Chuyên án bí số VN10: Truy tố người mẫu An Tây, ca sĩ Chi Dân, 'cô tiên' Trúc Phương
+[ ![Phan Thương](https://images2.thanhnien.vn/zoom/80_80/50x50/Uploaded/authors/PhongVien/phan-thuong-avatar_LHVB.jpg) ](https://thanhnien.vn/author/phan-thuong-185167.htm "Phan Thương")
+[Phan Thương](https://thanhnien.vn/author/phan-thuong-185167.htm "Phan Thương") - phanthuongbaochi@gmail.com 
+02/04/2026 13:05 GMT+7 
+[ Chia sẻ ](javascript:; "Chia sẻ facebook")
+[ ](javascript:;) [ ](javascript:;)
+##  Viện KSND TP.HCM truy tố 227 bị can từ vụ 4 tiếp viên hàng không xách ma túy từ Pháp về Việt Nam, trong đó có người mẫu An Tây, ca sĩ Chi Dân, 'cô tiên' Trúc Phương. 
+Viện KSND TP.HCM đã hoàn tất cáo trạng, chuyển hồ sơ sang TAND TP.HCM đề nghị xét xử sơ thẩm 227 bị can trong chuyên án VN10 liên quan 4 tiếp viên hàng không xách ma túy từ Pháp về Việt Nam, trong đó có [người mẫu An Tây](https://thanhnien.vn/nguoi-mau-an-tay.html "người mẫu An Tây"), ca sĩ Chi Dân, và "cô tiên" Trúc Phương.
+Theo đó, Viện KSND TP.HCM truy tố Hoàng Sỹ Thắng cùng đồng phạm tội "Vận chuyển trái phép chất ma túy", "Mua bán trái phép chất ma túy", "Tổ chức sử dụng trái phép chất ma túy", "Tàng trữ trái phép chất ma túy", "Không tố giác tội phạm", "Che giấu tội phạm" và "Chiếm giữ trái phép tài sản".
+Trong 227 bị can bị truy tố, có 4 bị can bị truy nã cũng bị Viện KSND TP.HCM đề nghị tòa xét xử vắng mặt theo quy định.
+![Truy tố người mẫu An Tây, ca sĩ Chi Dân, ‘cô Tiên’ Trúc Phương  - Ảnh 1.](https://images2.thanhnien.vn/528068263637045248/2023/8/3/tiep-vien-hang-khong-xaxh-ma-tuy-1679595046744482673089-1680169198937835727550-16910567644451510785819.jpg)
+Tuýp kem đánh răng chứa ma túy do 4 tiếp viên hàng không xách từ Pháp về Việt Nam
+ẢNH: TƯ LIỆU
+Theo diễn biến vụ án, ngày 16.3.2023, Chi cục Hải quan sân bay Quốc tế Tân Sơn Nhất qua công tác soi chiếu, phát hiện trong vali hành lý của 4 nữ tiếp viên hàng không trên chuyến bay mang số hiệu VN10, mang nhiều kiện kem đánh răng có biểu hiện bất thường, nên đã thông báo cho Cục Cảnh sát điều tra tội phạm về ma túy Bộ Công an và Phòng Cảnh sát điều tra tội phạm về ma túy Công an TP.HCM. 
+Qua kiểm tra, phát hiện trong các vali hành lý này có tổng cộng 327 tuýp kem đánh răng (nhiều nhãn hiệu khác nhau) chưa mở nắp, mỗi tuýp kem đánh răng đựng trong 1 hộp giấy riêng, trong đó có 157 tuýp kem đánh răng chứa tổng cộng 2.973,37 gam ma túy loại Ketamine và 8.312 gam ma túy loại MDMA.
+Ngày 17.3.2023, Chi cục Hải quan sân bay Quốc tế Tân Sơn Nhất chuyển hồ sơ vụ việc cho Cơ quan Cảnh sát điều tra Công an TP.HCM thụ lý điều tra theo thẩm quyền. 
+Sau khi tiếp nhận vụ việc, Cơ quan Cảnh sát điều tra Công an TP.HCM tiến hành xác minh làm rõ, ra quyết định khởi tố vụ án vận chuyển trái phép chất ma túy và xác lập chuyên án truy xét mang bí số "VN10" để tập trung truy xét mở rộng, điều tra xử lý các đường dây, băng nhóm, tổ chức tội phạm về ma túy có liên quan. 
+![Truy tố người mẫu An Tây, ca sĩ Chi Dân, ‘cô Tiên’ Trúc Phương  - Ảnh 2.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2025/8/21/ccab6df9b3013b5f6210-1-1755774833088982488981.jpeg)
+Ca sĩ Chi Dân tại cơ quan điều tra
+ẢNH: CACC
+Qua truy xét, ngày 3.4.2023, Công an TP.HCM xác định 4 nữ tiếp viên hàng không bị lợi dụng vận chuyển ma túy từ Pháp về Việt Nam. 
+Đồng thời, xác định đối tượng "Hữu Sơn" chính là Hà Danh Nậm (đang bị truy nã) đã vận chuyển trót lọt 6 chuyến hàng có chứa ma túy tổng hợp các loại được cất giấu trong các tuýp kem đánh răng, hộp thực phẩm chức năng…, bằng thủ đoạn lợi dụng người Việt Nam học tập, định cư tại Pháp nhận dịch vụ gom hàng, chuyển phát nhanh quốc tế để vận chuyển về Việt Nam qua sân bay quốc tế Nội Bài. 
+Tất cả các chuyến hàng của Hà Danh Nậm đều tập trung về một đầu mối nhận hàng tại tỉnh Đồng Nai là Hoàng Sỹ Thắng. Sau đó, Thắng tách riêng từng kiện hàng và chỉ đạo đồng phạm giao cho các đầu mối tiêu thụ. 
+Toàn cảnh chuyên án bí số VN10: Truy tố người mẫu An Tây, ca sĩ Chi Dân, 'cô tiên' Trúc Phương
+## Hành vi phạm tội của ca sĩ Chi Dân, người mẫu An Tây và 'cô tiên' Trúc Phương
+Đồng thời, bị can Nguyễn Trung Hiếu (ca sĩ Chi Dân) bị truy tố về tội tổ chức sử dụng trái phép chất ma túy. Ca sĩ Chi Dân được xác định có hành vi cùng nhau bàn bạc, chuẩn bị địa điểm, dụng cụ sử dụng ma túy và góp tiền mua ma túy, loại Ketamine và MDMA, để sử dụng với nhau.
+![Truy tố người mẫu An Tây, ca sĩ Chi Dân, ‘cô Tiên’ Trúc Phương  - Ảnh 3.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/4/2/anh-man-hinh-2026-04-02-luc-080822-1775092116896138847245.png)
+Công an TP.HCM khởi tố, bắt tạm giam Nguyễn Thị An (tức người mẫu An Tây)
+ẢNH: CACC
+Bị can Andrea Aybar Carmona (còn gọi là Nguyễn Thị An hay [người mẫu An Tây](https://thanhnien.vn/nhung-hot-girl-ma-tuy-tu-hao-quang-den-vuc-tham-tu-toi-185250308094530101.htm "Báo động tội phạm ma túy gen Z: Những 'hot girl' lao vực thẳm tù tội"), quốc tịch Tây Ban Nha; người mẫu, diễn viên) bị truy tố về tội tổ chức sử dụng trái phép chất ma túy, và tàng trữ trái phép chất ma túy.
+Andrea Aybar Carmona cung cấp ma túy và địa điểm để cùng sử dụng ma túy với Văn Anh Duy, Nguyễn Phương Đông vào ngày 2.11.2024 và tổ chức cho Duy sử dụng ma túy vào ngày 8.11.2024; khám xét chỗ ở của Andrea thu giữ 0,1184 gam Methamphetamine và 0,7524 gam cần sa. 
+Do vậy, Andrea Aybar Carmona phải chịu trách nhiệm hình sự về tội "Tổ chức sử dụng trái phép chất ma túy" và "Tàng trữ trái phép chất ma túy" với tổng khối lượng 0,1184 gam Methamphetamine; 0,7524 gam cần sa và 13,758 gam Ketamine đã cho Nguyễn Phương Đông vào ngày 2.11.2024.
+Bị can Nguyễn Đỗ Trúc Phương (hay còn gọi là "cô tiên" từ thiện) bị truy tố về tội tổ chức sử dụng trái phép chất ma túy. Phương được xác định đã 2 lần nhờ bạn mua ma túy để sử dụng.
+![Truy tố người mẫu An Tây, ca sĩ Chi Dân, ‘cô Tiên’ Trúc Phương  - Ảnh 4.](https://images2.thanhnien.vn/thumb_w/640/528068263637045248/2026/4/2/anh-man-hinh-2026-04-02-luc-080831-17750921203941757645039.png)
+Nguyễn Đỗ Trúc Phương (hay còn gọi là "cô tiên" từ thiện)
+ẢNH: CACC
+Đối với 4 nữ tiếp viên hàng không Vietnam Airlines, kết quả điều tra xác định đây là lần đầu tiên các tiếp viên này được phân công chung hành trình bay Việt Nam - Pháp, các tiếp viên đồng ý vận chuyển 60 kg hàng hóa tiêu dùng (gồm kem đánh răng, bàn chải đánh răng) từ Pháp về Việt Nam cho Hà Danh Nậm, để được hưởng tiền công theo trọng lượng hàng hóa, tương ứng với 6,5 euro/kg (khoảng 169.000 đồng).
+Các tiếp viên này không quen biết, không phát sinh liên lạc và giao dịch chuyển, nhận tiền với Hà Danh Nậm, Hoàng Sỹ Thắng và các bị can khác đã bị bắt giữ trong vụ án từ trước, nên không có căn cứ xử lý về tội vận chuyển trái phép chất ma túy.
+[](https://thanhnien.vn/chuyen-an-bi-so-vn10-truy-to-nguoi-mau-an-tay-ca-si-chi-dan-truc-phuong-185260402125551927.htm)
+##  [ Tin liên quan ](javascript:; "Tin liên quan")
+[ ![Chuyên án tiếp viên hàng không xách ma túy: Khởi tố trên 3.000 người](https://images2.thanhnien.vn/zoom/205_128/528068263637045248/2026/4/2/base64-17750924858361126612759-138-0-1177-1662-crop-1775092526588474186207.png) ](https://thanhnien.vn/chuyen-an-tiep-vien-hang-khong-xach-ma-tuy-khoi-to-tren-3000-nguoi-185260402081807042.htm "Chuyên án tiếp viên hàng không xách ma túy: Khởi tố trên 3.000 người")
+###  [Chuyên án tiếp viên hàng không xách ma túy: Khởi tố trên 3.000 người](https://thanhnien.vn/chuyen-an-tiep-vien-hang-khong-xach-ma-tuy-khoi-to-tren-3000-nguoi-185260402081807042.htm "Chuyên án tiếp viên hàng không xách ma túy: Khởi tố trên 3.000 người")
+[Từ vụ 4 tiếp viên hàng không xách ma túy từ Pháp về Việt Nam, công an đã khởi tố trên 3.000 bị can, trong đó Viện KSND TP.HCM đã truy tố 227 bị can.](https://thanhnien.vn/chuyen-an-tiep-vien-hang-khong-xach-ma-tuy-khoi-to-tren-3000-nguoi-185260402081807042.htm "Từ vụ 4 tiếp viên hàng không xách ma túy từ Pháp về Việt Nam, công an đã khởi tố trên 3.000 bị can, trong đó Viện KSND TP.HCM đã truy tố 227 bị can.")
+[ Chia sẻ ](javascript:; "Chia sẻ facebook")
+Bình luận (0) 
+[Gửi bình luận](javascript:;)
+[Quan tâm nhất](javascript:;) [Mới nhất](javascript:;)
+[Xem thêm bình luận](javascript:;)
+#### Khám phá thêm chủ đề
+[ người mẫu An Tây ](https://thanhnien.vn/nguoi-mau-an-tay-tags1694543.html "người mẫu An Tây") [ Ca sĩ Chi Dân ](https://thanhnien.vn/ca-si-chi-dan-tags594751.html "Ca sĩ Chi Dân") [ cô tiên Trúc Phương ](https://thanhnien.vn/co-tien-truc-phuong-tags1829810.html "cô tiên Trúc Phương") [ ma túy ](https://thanhnien.vn/ma-tuy-tags486312.html "ma túy") [ tiếp viên hàng không xách ma túy ](https://thanhnien.vn/tiep-vien-hang-khong-xach-ma-tuy-tags1159855.html "tiếp viên hàng không xách ma túy")
+## Đọc thêm
+[![Quán bánh cuốn Michelin ở trung tâm TP.HCM: Thâm niên 65 năm, bà chủ có thói quen đặc biệt](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/7/anh-man-hinh-2026-06-07-luc-14-37-31-17808178824782080625388-0-0-1000-1600-crop-1780817887868934187901.png)](https://thanhnien.vn/quan-banh-cuon-michelin-o-trung-tam-tphcm-tham-nien-65-nam-ba-chu-co-thoi-quen-dac-biet-185260607144333128.htm "Quán bánh cuốn Michelin ở trung tâm TP.HCM: Thâm niên 65 năm, bà chủ có thói quen đặc biệt")
+[Ẩm thực](https://thanhnien.vn/doi-song/am-thuc.htm "Ẩm thực")
+### [Quán bánh cuốn Michelin ở trung tâm TP.HCM: Thâm niên 65 năm, bà chủ có thói quen đặc biệt](https://thanhnien.vn/quan-banh-cuon-michelin-o-trung-tam-tphcm-tham-nien-65-nam-ba-chu-co-thoi-quen-dac-biet-185260607144333128.htm "Quán bánh cuốn Michelin ở trung tâm TP.HCM: Thâm niên 65 năm, bà chủ có thói quen đặc biệt")
+Một quán bánh cuốn nằm ngay trung tâm TP.HCM có thâm niên 65 năm lần đầu tiên được Michelin Guide vinh danh. Điều đặc biệt, bà chủ quán mỗi ngày đều mặc một bộ áo dài thật đẹp, niềm nở đón...
+[![Mộ liệt sĩ tại Công viên Lê Thị Riêng: Đầu tháng 7 khai quật](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/z7875778741852a7d7ed2dab0d2969a94b3471b36e5308-1780022620835941209798-0-0-800-1280-crop-17809014932291397884151.jpg)](https://thanhnien.vn/mo-liet-si-tai-cong-vien-le-thi-rieng-dau-thang-7-khai-quat-185260608135358108.htm "Mộ liệt sĩ tại Công viên Lê Thị Riêng: Đầu tháng 7 khai quật")
+[Thời sự](https://thanhnien.vn/thoi-su.htm "Thời sự")
+### [Mộ liệt sĩ tại Công viên Lê Thị Riêng: Đầu tháng 7 khai quật](https://thanhnien.vn/mo-liet-si-tai-cong-vien-le-thi-rieng-dau-thang-7-khai-quat-185260608135358108.htm "Mộ liệt sĩ tại Công viên Lê Thị Riêng: Đầu tháng 7 khai quật")
+Phó thủ tướng Phạm Thị Thanh Trà yêu cầu việc khai quật khu mộ liệt sĩ tại Công viên Lê Thị Riêng phải được triển khai chậm nhất đầu tháng 7.2026, trên tinh thần khẩn trương, thận trọng.
+[![Giá vàng trượt sâu, xuống 140 triệu đồng/lượng](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/gen-n-tahch-2-17788367986891562090210-113-0-805-1107-crop-1780903092069224610657.jpg)](https://thanhnien.vn/gia-vang-truot-sau-xuong-140-trieu-dong-luong-185260608141908917.htm "Giá vàng trượt sâu, xuống 140 triệu đồng/lượng")
+[Ngân hàng](https://thanhnien.vn/kinh-te/ngan-hang.htm "Ngân hàng")
+### [Giá vàng trượt sâu, xuống 140 triệu đồng/lượng](https://thanhnien.vn/gia-vang-truot-sau-xuong-140-trieu-dong-luong-185260608141908917.htm "Giá vàng trượt sâu, xuống 140 triệu đồng/lượng")
+Giá vàng miếng SJC liên tục giảm trong ngày 8.6, mất khoảng 6 triệu đồng/lượng, xuống mức 140 triệu đồng/lượng.
+[![Trung tá CSGT bị tài xế không đội mũ bảo hiểm tông trúng](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/7/trung-ta-csgt-bi-tong-17808202067951748666256-0-64-659-1118-crop-1780820285302401121635.jpg)](https://thanhnien.vn/trung-ta-csgt-bi-tai-xe-khong-doi-mu-bao-hiem-tong-trung-185260607151346837.htm "Trung tá CSGT bị tài xế không đội mũ bảo hiểm tông trúng")
+[Thời sự](https://thanhnien.vn/thoi-su.htm "Thời sự")
+### [Trung tá CSGT bị tài xế không đội mũ bảo hiểm tông trúng](https://thanhnien.vn/trung-ta-csgt-bi-tai-xe-khong-doi-mu-bao-hiem-tong-trung-185260607151346837.htm "Trung tá CSGT bị tài xế không đội mũ bảo hiểm tông trúng")
+Nam thanh niên điều khiển xe máy không đội mũ bảo hiểm, bị CSGT ra hiệu lệnh dừng xe thì mất lái tông trúng vị trung tá, khiến ông này phải nhập viện cấp cứu.
+[![Báo động đỏ liên viện cứu sống nữ sinh 17 tuổi bị xe container cán ở TP.HCM](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/base64-17808961395792070417776-93-0-1343-2000-crop-1780896406920516174301.jpeg)](https://thanhnien.vn/bao-dong-do-lien-vien-cuu-song-nu-sinh-17-tuoi-bi-xe-container-can-o-tphcm-185260608122941074.htm "Báo động đỏ liên viện cứu sống nữ sinh 17 tuổi bị xe container cán ở TP.HCM")
+[Thời sự](https://thanhnien.vn/thoi-su.htm "Thời sự")
+### [Báo động đỏ liên viện cứu sống nữ sinh 17 tuổi bị xe container cán ở TP.HCM](https://thanhnien.vn/bao-dong-do-lien-vien-cuu-song-nu-sinh-17-tuoi-bi-xe-container-can-o-tphcm-185260608122941074.htm "Báo động đỏ liên viện cứu sống nữ sinh 17 tuổi bị xe container cán ở TP.HCM")
+Nữ sinh 17 tuổi bị container cán lên người, đa chấn thương nguy kịch, sau khi được cứu sống, tỉnh lại, em chỉ hỏi: "Em trai con có sao không?".
+[![Cháy tiệm photocopy làm cụ ông tử vong: Tạm giữ con trai nạn nhân](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/sequence-01still001-1780906831680678771658-0-0-1250-2000-crop-17809071470621282245638.jpg)](https://thanhnien.vn/chay-tiem-photocopy-lam-cu-ong-tu-vong-tam-giu-con-trai-nan-nhan-185260608152640765.htm "Cháy tiệm photocopy làm cụ ông tử vong: Tạm giữ con trai nạn nhân")
+[Pháp luật](https://thanhnien.vn/thoi-su/phap-luat.htm "Pháp luật")
+### [Cháy tiệm photocopy làm cụ ông tử vong: Tạm giữ con trai nạn nhân](https://thanhnien.vn/chay-tiem-photocopy-lam-cu-ong-tu-vong-tam-giu-con-trai-nan-nhan-185260608152640765.htm "Cháy tiệm photocopy làm cụ ông tử vong: Tạm giữ con trai nạn nhân")
+Liên quan vụ cháy tiệm photocopy ở Vĩnh Long làm cụ ông khoảng 80 tuổi tử vong, công an đã tạm giữ nghi phạm là con trai của nạn nhân.
+[![Liên quan xăng E10, Bộ Công thương chỉ đạo 'chia sẻ nguồn cung, chia sẻ lợi nhuận'](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/gia-xang-dau-hom-nay-r-17663658447731737234727-16-0-466-720-crop-1780899588406117761000.jpg)](https://thanhnien.vn/lien-quan-xang-e10-bo-cong-thuong-chi-dao-chia-se-nguon-cung-chia-se-loi-nhuan-18526060813223015.htm "Liên quan xăng E10, Bộ Công thương chỉ đạo 'chia sẻ nguồn cung, chia sẻ lợi nhuận'")
+[Chính sách - Phát triển](https://thanhnien.vn/kinh-te/chinh-sach-phat-trien.htm "Chính sách - Phát triển")
+### [Liên quan xăng E10, Bộ Công thương chỉ đạo 'chia sẻ nguồn cung, chia sẻ lợi nhuận'](https://thanhnien.vn/lien-quan-xang-e10-bo-cong-thuong-chi-dao-chia-se-nguon-cung-chia-se-loi-nhuan-18526060813223015.htm "Liên quan xăng E10, Bộ Công thương chỉ đạo 'chia sẻ nguồn cung, chia sẻ lợi nhuận'")
+Cục Quản lý và Phát triển thị trường trong nước (Bộ Công thương) vừa có văn bản yêu cầu các thương nhân đầu mối, phân phối... chủ động nguồn hàng, duy trì hoạt động cung ứng xăng E10 liên...
+[![Đội tuyển Việt Nam đá AFF Cup bằng lực lượng nhập tịch mạnh nhất lịch sử](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/vietnam-malaysia-3-17749698296921473863893-0-0-1600-2560-crop-17808923383831449967562.jpg)](https://thanhnien.vn/doi-tuyen-viet-nam-da-aff-cup-bang-luc-luong-nhap-tich-manh-nhat-lich-su-18526060811021499.htm "Đội tuyển Việt Nam đá AFF Cup bằng lực lượng nhập tịch mạnh nhất lịch sử")
+[Bóng đá Việt Nam](https://thanhnien.vn/the-thao/bong-da-viet-nam.htm "Bóng đá Việt Nam")
+### [Đội tuyển Việt Nam đá AFF Cup bằng lực lượng nhập tịch mạnh nhất lịch sử](https://thanhnien.vn/doi-tuyen-viet-nam-da-aff-cup-bang-luc-luong-nhap-tich-manh-nhat-lich-su-18526060811021499.htm "Đội tuyển Việt Nam đá AFF Cup bằng lực lượng nhập tịch mạnh nhất lịch sử")
+Nếu HLV Kim Sang-sik triệu tập đầy đủ gương mặt ưu tú, đội tuyển Việt Nam có thể đá AFF Cup với gần nửa đội hình nhập tịch. 
+[![Đức Trọng có gì để trở thành trung tâm hành chính mới của Lâm Đồng?](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/pano-xa-duc-trong-1780894607948142849513-0-5-750-1205-crop-1780898982202492802218.jpg)](https://thanhnien.vn/duc-trong-co-gi-de-tro-thanh-trung-tam-hanh-chinh-moi-cua-lam-dong-185260608120938354.htm "Đức Trọng có gì để trở thành trung tâm hành chính mới của Lâm Đồng?")
+[Dân sinh](https://thanhnien.vn/thoi-su/dan-sinh.htm "Dân sinh")
+### [Đức Trọng có gì để trở thành trung tâm hành chính mới của Lâm Đồng?](https://thanhnien.vn/duc-trong-co-gi-de-tro-thanh-trung-tam-hanh-chinh-moi-cua-lam-dong-185260608120938354.htm "Đức Trọng có gì để trở thành trung tâm hành chính mới của Lâm Đồng?")
+UBND tỉnh Lâm Đồng vừa phê duyệt nhiệm vụ quy hoạch chung xã Đức Trọng đến năm 2050, định hướng xây dựng nơi đây trở thành Trung tâm hành chính - chính trị của tỉnh.
+[![Diễn viên Kinh Quốc kết hôn lần 3](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/edit-338ed81c-2a7e-47c7-af93-4c89188536ec-1780903673691530369338-0-0-1280-2048-crop-1780903807523373179841.jpeg)](https://thanhnien.vn/dien-vien-kinh-quoc-ket-hon-lan-3-18526060814303187.htm "Diễn viên Kinh Quốc kết hôn lần 3")
+[Đời nghệ sĩ](https://thanhnien.vn/giai-tri/doi-nghe-si.htm "Đời nghệ sĩ")
+### [Diễn viên Kinh Quốc kết hôn lần 3](https://thanhnien.vn/dien-vien-kinh-quoc-ket-hon-lan-3-18526060814303187.htm "Diễn viên Kinh Quốc kết hôn lần 3")
+Sau nhiều năm hoạt động nghệ thuật, diễn viên Kinh Quốc tiếp tục nhận được sự quan tâm của khán giả không phải bởi dự án phim ảnh mà còn từ những thông tin liên quan đến cuộc sống riêng tư.
+[![Cháy tiệm photocopy nghi do phóng hỏa, cụ ông 80 tuổi tử vong](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/sequence-01still002-17809001944391862164730-72-0-1322-2000-crop-17809002134531547768397.jpg)](https://thanhnien.vn/chay-tiem-photocopy-nghi-do-phong-hoa-cu-ong-80-tuoi-tu-vong-18526060813315265.htm "Cháy tiệm photocopy nghi do phóng hỏa, cụ ông 80 tuổi tử vong")
+[Pháp luật](https://thanhnien.vn/thoi-su/phap-luat.htm "Pháp luật")
+### [Cháy tiệm photocopy nghi do phóng hỏa, cụ ông 80 tuổi tử vong](https://thanhnien.vn/chay-tiem-photocopy-nghi-do-phong-hoa-cu-ong-80-tuoi-tu-vong-18526060813315265.htm "Cháy tiệm photocopy nghi do phóng hỏa, cụ ông 80 tuổi tử vong")
+Tiệm photocopy ở Vĩnh Long bất ngờ bốc cháy nghi do bị phóng hỏa, khiến cụ ông 80 tuổi tử vong và 1 người khác bị thương.
+[![Ông Lương Quốc Đoàn tái đắc cử Chủ tịch Hội Nông dân Việt Nam](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/photo-1780904387966-17809043890912023197418-132-0-1382-2000-crop-1780904671364693033240-31-388-763-1559-crop-17809054843902065606721.jpeg)](https://thanhnien.vn/ong-luong-quoc-doan-tai-dac-cu-chu-tich-hoi-nong-dan-viet-nam-185260608144838886.htm "Ông Lương Quốc Đoàn tái đắc cử Chủ tịch Hội Nông dân Việt Nam")
+[Chính trị](https://thanhnien.vn/chinh-tri.htm "Chính trị")
+### [Ông Lương Quốc Đoàn tái đắc cử Chủ tịch Hội Nông dân Việt Nam](https://thanhnien.vn/ong-luong-quoc-doan-tai-dac-cu-chu-tich-hoi-nong-dan-viet-nam-185260608144838886.htm "Ông Lương Quốc Đoàn tái đắc cử Chủ tịch Hội Nông dân Việt Nam")
+Chiều 8.6, Đại hội Hội Nông dân Việt Nam lần thứ IX, nhiệm kỳ 2026 - 2031 ra mắt Ban Chấp hành T.Ư Hội Nông dân Việt Nam với 81 ủy viên. Ông Lương Quốc Đoàn, tái đắc cử Chủ tịch T.Ư Hội...
+[![Quán phở gà 'đắt nhất nhì' Hà Nội được Michelin gọi tên có gì đặc biệt?](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/dh63046-1780885098303755904309-146-0-1746-2560-crop-17808867718762079625279.jpg)](https://thanhnien.vn/quan-pho-ga-dat-nhat-nhi-ha-noi-duoc-michelin-goi-ten-co-gi-dac-biet-185260608081129248.htm "Quán phở gà 'đắt nhất nhì' Hà Nội được Michelin gọi tên có gì đặc biệt?")
+[Ẩm thực](https://thanhnien.vn/doi-song/am-thuc.htm "Ẩm thực")
+### [Quán phở gà 'đắt nhất nhì' Hà Nội được Michelin gọi tên có gì đặc biệt?](https://thanhnien.vn/quan-pho-ga-dat-nhat-nhi-ha-noi-duoc-michelin-goi-ten-co-gi-dac-biet-185260608081129248.htm "Quán phở gà 'đắt nhất nhì' Hà Nội được Michelin gọi tên có gì đặc biệt?")
+Lần đầu tiên được Michelin vinh danh nhưng chủ quán phở gà Huyền Hương không hề hay biết đến khi có người gọi điện chúc mừng sau lễ công bố.
+[![Mộ liệt sĩ tại Công viên Lê Thị Riêng: 8 năm lần tìm rãnh mộ liệt sĩ](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/ale0263-17808876134371139363937-237-642-1026-1904-crop-1780887703406655569151.jpg)](https://thanhnien.vn/mo-liet-si-tai-cong-vien-le-thi-rieng-8-nam-lan-tim-ranh-mo-liet-si-185260608100432801.htm "Mộ liệt sĩ tại Công viên Lê Thị Riêng: 8 năm lần tìm rãnh mộ liệt sĩ")
+[Thời sự](https://thanhnien.vn/thoi-su.htm "Thời sự")
+### [Mộ liệt sĩ tại Công viên Lê Thị Riêng: 8 năm lần tìm rãnh mộ liệt sĩ](https://thanhnien.vn/mo-liet-si-tai-cong-vien-le-thi-rieng-8-nam-lan-tim-ranh-mo-liet-si-185260608100432801.htm "Mộ liệt sĩ tại Công viên Lê Thị Riêng: 8 năm lần tìm rãnh mộ liệt sĩ")
+Sau 8 năm lần theo ảnh tư liệu, không ảnh, bản đồ và lời kể nhân chứng, nhóm nghiên cứu đã xác định vị trí rãnh mộ liệt sĩ tại Công viên Lê Thị Riêng.
+[![Houthi tấn công, cấm hoạt động hàng hải của Israel trên biển Đỏ](https://images2.thanhnien.vn/zoom/328_205/528068263637045248/2026/6/8/nhung-nguoi-ung-ho-houthi-17809048017401499306147-32-0-782-1200-crop-1780904851371558849624.jpg)](https://thanhnien.vn/houthi-tan-cong-cam-hoat-dong-hang-hai-cua-israel-tren-bien-do-18526060814572978.htm "Houthi tấn công, cấm hoạt động hàng hải của Israel trên biển Đỏ")
+[Thế giới](https://thanhnien.vn/the-gioi.htm "Thế giới")
+### [Houthi tấn công, cấm hoạt động hàng hải của Israel trên biển Đỏ](https://thanhnien.vn/houthi-tan-cong-cam-hoat-dong-hang-hai-cua-israel-tren-bien-do-18526060814572978.htm "Houthi tấn công, cấm hoạt động hàng hải của Israel trên biển Đỏ")
+Lực lượng Houthi ngày 8.6 tuyên bố đã tấn công Israel bằng tên lửa và cấm vận hoạt động hàng hải của Israel trên biển Đỏ, theo AFP.
+[Xem thêm](javascript:;)
+[Chính trị](https://thanhnien.vn/chinh-tri.htm "Chính trị") [Thời sự](https://thanhnien.vn/thoi-su.htm "Thời sự") [ Thế giới ](https://thanhnien.vn/the-gioi.htm " Thế giới") [ Kinh tế ](https://thanhnien.vn/kinh-te.htm " Kinh tế")
+[ Đời sống ](https://thanhnien.vn/doi-song.htm " Đời sống") [ Sức khoẻ ](https://thanhnien.vn/suc-khoe.htm " Sức khoẻ") [ Giới trẻ ](https://thanhnien.vn/gioi-tre.htm "Giới trẻ") [ Giáo dục ](https://thanhnien.vn/giao-duc.htm "Giáo dục")
+[ Du lịch ](https://thanhnien.vn/du-lich.htm "Du lịch") [ Văn hoá ](https://thanhnien.vn/van-hoa.htm "Văn hoá") [ Giải trí ](https://thanhnien.vn/giai-tri.htm "Giải trí") [ Thể thao ](https://thanhnien.vn/the-thao.htm "Thể thao")
+[ Công nghệ ](https://thanhnien.vn/cong-nghe.htm "Công nghệ") [ Xe ](https://thanhnien.vn/xe.htm " Xe") [ Thời trang trẻ ](https://thanhnien.vn/thoi-trang-tre.htm "Thời trang trẻ") [ Video ](https://thanhnien.vn/video.htm "Video")
+[ Bạn đọc ](https://thanhnien.vn/ban-doc.htm " Bạn đọc") [ Rao vặt ](https://raovat.thanhnien.vn/ "Rao vặt")
+[ ![footer__logo](https://static.thanhnien.com.vn/thanhnien.vn/image/logo-ft.png) ](https://thanhnien.vn/ "Báo Thanh niên")
+[Đặt báo ](https://datbao.thanhnien.vn/ "Đặt báo") [Quảng cáo ](https://banggia.thanhnien.vn/ "Quảng cáo") [RSS ](https://thanhnien.vn/rss.html "RSS") [Tòa soạn ](https://thanhnien.vn/thong-tin-toa-soan.html "Tòa soạn") [Chính sách bảo mật ](https://thanhnien.vn/policy.html "Chính sách bảo mật")
+Theo dõi báo trên
+[ ](https://www.facebook.com/thanhnien "Facebook") [ ](https://zalo.me/2431025964363015388 "Zalo") [ ](https://www.youtube.com/channel/UCIW9cGgoRuGJnky3K3tbzNg "Youtube")
+Hotline
+0906 645 777
+Liên hệ quảng cáo
+0908 780 404
+Tổng biên tập: Nguyễn Ngọc Toàn 
+Phó tổng biên tập thường trực: Hải Thành 
+Phó tổng biên tập: Lâm Hiếu Dũng 
+Phó tổng biên tập: Trần Việt Hưng
+Tổng thư ký tòa soạn: Đức Trung 
+Giấy phép xuất bản số 110/GP - BTTTT cấp ngày 24.3.2020 © 2003-2026 Bản quyền thuộc về Báo Thanh Niên. Cấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn bản. [ ![Chứng nhận tín nhiệm mạng](https://static.mediacdn.vn/zoom/150_68/thanhnien.vn/image/handle_cert.png) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/thanhnienvn-1625711824 "Chứng nhận tín nhiệm mạng")
+[ Top ](javascript:;)
+####  Bạn không thể gửi bình luận liên tục. Xin hãy đợi   
+60 giây nữa.
+Bình luận (0) 
+[ ](javascript:; "Close")
+[Gửi bình luận](javascript:;)
+Đăng nhập để bình luận
+[Quan tâm nhất](javascript:;) [Mới nhất](javascript:;)
+[Xem thêm bình luận](javascript:;)
