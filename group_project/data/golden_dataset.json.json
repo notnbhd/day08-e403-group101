@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Trong đợt triệt phá đường dây ma túy quy mô lớn của Công an TPHCM vào tháng 5/2026, những nghệ sĩ nào đã bị bắt và khởi tố vì liên quan đến chất cấm?",
+    "expected_answer": "Trong đợt triệt phá đường dây ma túy quy mô lớn gồm 74 đối tượng vào tháng 5/2026 của Công an TPHCM, hai nghệ sĩ bị bắt và khởi tố là ca sĩ Long Nhật (Đinh Long Nhật) và ca sĩ Sơn Ngọc Minh (cựu thành viên nhóm V-Music).",
+    "expected_context": "Tin tức Y tế / Đời sống - Xã hội năm 2026",
+    "chunk_index": 29
+  },
+  {
+    "question": "Vào tháng 6/2024, nam ca sĩ từng lọt top 30 Vietnam Idol nào đã bị Công an Quận 10, TPHCM tạm giữ khi đang cùng nhóm đối tượng tổ chức, sử dụng trái phép chất ma túy?",
+    "expected_answer": "Vào ngày 6/6/2024, Công an Quận 10, TPHCM đã tạm giữ Chu Đăng Thanh (nghệ danh ca sĩ Chu Bin) khi lực lượng chức năng kiểm tra một căn nhà trên địa bàn và phát hiện anh cùng 5 người khác đang sử dụng trái phép chất ma túy.",
+    "expected_context": "Tin tức Báo VietnamNet, tháng 6/2024",
+    "chunk_index": 30
+  },
+  {
+    "question": "Người mẫu nam mang dòng máu lai nào từng tham gia nhiều MV của các ca sĩ nổi tiếng đã bị Công an Quận 1, TPHCM khởi tố và tạm giam về hành vi tàng trữ trái phép chất ma túy vào cuối tháng 6/2024?",
+    "expected_answer": "Người mẫu nam bị khởi tố và tạm giam là Đinh Nhi Ko Lai (hay còn gọi là Nhikolai Đinh). Anh bị bắt giữ cùng nhiều đối tượng khác vào ngày 25/6/2024.",
+    "expected_context": "Tin tức Báo Tiền Phong / VietnamNet, tháng 6/2024",
+    "chunk_index": 31
+  },
+  {
+    "question": "Vụ án ma túy chấn động vào tháng 11/2024 liên quan đến mẫu tây Andrea Aybar và ca sĩ Chi Dân được cơ quan chức năng điều tra cụ thể về các tội danh gì?",
+    "expected_answer": "Vào ngày 14/11/2024, mẫu tây Andrea Aybar (tên tiếng Việt là Nguyễn Thị An) bị bắt để điều tra về hai hành vi 'Tàng trữ trái phép chất ma túy' và 'Tổ chức sử dụng trái phép chất ma túy'. Trong khi đó, ca sĩ Chi Dân (Nguyễn Trung Hiếu) và Nguyễn Đỗ Trúc Phương bị bắt về tội 'Tổ chức sử dụng trái phép chất ma túy'.",
+    "expected_context": "Tin tức Báo Tuổi Trẻ / VietnamNet, tháng 11/2024",
+    "chunk_index": 31
+  },
+  {
+    "question": "Chuyên án ma túy lớn được Công an TP.HCM mở rộng điều tra, dẫn đến việc bắt giữ loạt nghệ sĩ, người mẫu vào cuối năm 2024 vốn có nguồn gốc từ vụ việc nào trước đó?",
+    "expected_answer": "Chuyên án này bắt nguồn từ vụ triệt phá đường dây vận chuyển trái phép chất ma túy qua đường hàng không từ Pháp về Việt Nam xảy ra vào ngày 16-3-2023 (vụ án liên quan đến 4 nữ tiếp viên hàng không).",
+    "expected_context": "Tin tức Báo Tuổi Trẻ, năm 2024",
+    "chunk_index": 26
+  }
+]
