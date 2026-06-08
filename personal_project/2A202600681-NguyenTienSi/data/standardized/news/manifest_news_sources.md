@@ -1,0 +1,97 @@
+# manifest_news_sources
+
+## Metadata
+
+- **source_file:** `manifest_news_sources.json`
+- **source_path:** `D:\Code\VinAI\day08-e403-group101\personal_project\2A202600681-NguyenTienSi\data\landing\news\manifest_news_sources.json`
+- **converted_at:** `2026-06-08T11:27:31.179613+00:00`
+- **original_extension:** .json
+- **converter:** generic_json_converter
+
+---
+## JSON Content
+
+```json
+[
+  {
+    "index": 1,
+    "filename": "article_01_tuoitre_vn_b_t_ca_s_long_nh_t_v_ca_s_s_n_ng_c_minh_v_li_n_quan_ma_t_y_tu_i_tre_on_db970f647b.json",
+    "filepath": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_01_tuoitre_vn_b_t_ca_s_long_nh_t_v_ca_s_s_n_ng_c_minh_v_li_n_quan_ma_t_y_tu_i_tre_on_db970f647b.json",
+    "url": "https://tuoitre.vn/bat-ca-si-long-nhat-va-ca-si-son-ngoc-minh-vi-lien-quan-ma-tuy-20260520082138943.htm",
+    "source_domain": "tuoitre.vn",
+    "title": "Bắt ca sĩ Long Nhật và ca sĩ Sơn Ngọc Minh vì liên quan ma túy - Tuổi Trẻ Online",
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 2,
+    "filename": "article_02_tuoitre_vn_kh_i_t_3_b_can_trong_v_ca_s_miu_l_s_d_ng_ma_t_y_c_t_b_tu_i_tre_online_ecbce1c866.json",
+    "filepath": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_02_tuoitre_vn_kh_i_t_3_b_can_trong_v_ca_s_miu_l_s_d_ng_ma_t_y_c_t_b_tu_i_tre_online_ecbce1c866.json",
+    "url": "https://tuoitre.vn/khoi-to-3-bi-can-trong-vu-ca-si-miu-le-su-dung-ma-tuy-o-cat-ba-20260514230349573.htm",
+    "source_domain": "tuoitre.vn",
+    "title": "Khởi tố 3 bị can trong vụ ca sĩ Miu Lê sử dụng ma túy ở Cát Bà - Tuổi Trẻ Online",
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 3,
+    "filename": "article_03_dantri_com_vn_ca_s_miu_l_b_b_t_qu_tang_s_d_ng_ma_t_y_h_i_ph_ng_b_o_d_n_tr_ee306dd2ea.json",
+    "filepath": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_03_dantri_com_vn_ca_s_miu_l_b_b_t_qu_tang_s_d_ng_ma_t_y_h_i_ph_ng_b_o_d_n_tr_ee306dd2ea.json",
+    "url": "https://dantri.com.vn/phap-luat/ca-si-miu-le-bi-bat-qua-tang-su-dung-ma-tuy-o-hai-phong-20260511185303149.htm",
+    "source_domain": "dantri.com.vn",
+    "title": "Ca sĩ Miu Lê bị bắt quả tang sử dụng ma túy ở Hải Phòng | Báo Dân trí",
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 4,
+    "filename": "article_04_dantri_com_vn_truy_t_ca_s_chi_d_n_ng_i_m_u_an_t_y_b_o_d_n_tr_de11948a19.json",
+    "filepath": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_04_dantri_com_vn_truy_t_ca_s_chi_d_n_ng_i_m_u_an_t_y_b_o_d_n_tr_de11948a19.json",
+    "url": "https://dantri.com.vn/phap-luat/truy-to-ca-si-chi-dan-nguoi-mau-an-tay-20260402122649916.htm",
+    "source_domain": "dantri.com.vn",
+    "title": "Truy tố ca sĩ Chi Dân, người mẫu An Tây | Báo Dân trí",
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 5,
+    "filename": "article_05_dantri_com_vn_nh_ng_ngh_s_vi_t_lao_ao_v_d_nh_v_o_ma_t_y_b_o_d_n_tr_83d0338dc2.json",
+    "filepath": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_05_dantri_com_vn_nh_ng_ngh_s_vi_t_lao_ao_v_d_nh_v_o_ma_t_y_b_o_d_n_tr_83d0338dc2.json",
+    "url": "https://dantri.com.vn/van-hoa/nhung-nghe-si-viet-lao-dao-vi-dinh-vao-ma-tuy-20230424033137629.htm",
+    "source_domain": "dantri.com.vn",
+    "title": "Những nghệ sĩ Việt lao đao vì dính vào ma túy | Báo Dân trí",
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 6,
+    "filename": "article_06_vietnamnet_vn_chi_d_n_an_t_y_tr_c_ph_ng_l_nh_ng_m_t_x_ch_cu_i_trong_ng_d_y_ma_t_y_2a9b43c5ed.json",
+    "filepath": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_06_vietnamnet_vn_chi_d_n_an_t_y_tr_c_ph_ng_l_nh_ng_m_t_x_ch_cu_i_trong_ng_d_y_ma_t_y_2a9b43c5ed.json",
+    "url": "https://vietnamnet.vn/chi-dan-an-tay-truc-phuong-la-nhung-mat-xich-cuoi-trong-duong-day-ma-tuy-2342032.html",
+    "source_domain": "vietnamnet.vn",
+    "title": "Chi Dân, An Tây, Trúc Phương là những 'mắt xích' cuối trong đường dây ma túy",
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 7,
+    "filename": "article_07_thanhnien_vn_chuy_n_n_b_s_vn10_truy_t_ng_i_m_u_an_t_y_ca_s_chi_d_n_c_ti_n_tr_c_ph_n_5f0ce6d2fa.json",
+    "filepath": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_07_thanhnien_vn_chuy_n_n_b_s_vn10_truy_t_ng_i_m_u_an_t_y_ca_s_chi_d_n_c_ti_n_tr_c_ph_n_5f0ce6d2fa.json",
+    "url": "https://thanhnien.vn/chuyen-an-bi-so-vn10-truy-to-nguoi-mau-an-tay-ca-si-chi-dan-truc-phuong-185260402125551927.htm",
+    "source_domain": "thanhnien.vn",
+    "title": "Chuyên án bí số VN10: Truy tố người mẫu An Tây, ca sĩ Chi Dân, 'cô tiên' Trúc Phương",
+    "success": true,
+    "error": null
+  },
+  {
+    "index": 8,
+    "filename": "article_08_plo_vn_truy_t_ca_s_chi_d_n_ng_i_m_u_an_t_y_v_225_b_can_v_4_ti_p_vi_n_h_ng_kh__a58ec0066f.json",
+    "filepath": "D:\\Code\\VinAI\\day08-e403-group101\\personal_project\\2A202600681-NguyenTienSi\\data\\landing\\news\\article_08_plo_vn_truy_t_ca_s_chi_d_n_ng_i_m_u_an_t_y_v_225_b_can_v_4_ti_p_vi_n_h_ng_kh__a58ec0066f.json",
+    "url": "https://plo.vn/truy-to-ca-sy-chi-dan-nguoi-mau-an-tay-va-225-bi-can-vu-4-tiep-vien-hang-khong-bi-loi-dung-van-chuyen-ma-tuy-post902216.html",
+    "source_domain": "plo.vn",
+    "title": "Truy tố ca sỹ Chi Dân, người mẫu An Tây và 225 bị can vụ 4 tiếp viên hàng không bị lợi dụng vận chuyển ma túy | Báo Pháp Luật TP. Hồ Chí Minh",
+    "success": true,
+    "error": null
+  }
+]
+```
