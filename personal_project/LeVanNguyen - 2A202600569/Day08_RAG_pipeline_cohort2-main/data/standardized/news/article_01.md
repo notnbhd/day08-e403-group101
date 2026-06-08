@@ -1,0 +1,232 @@
+# Sơn Ngọc Minh sử dụng ma túy với ai?
+
+**Source:** https://kenh14.vn/son-ngoc-minh-su-dung-ma-tuy-voi-ai-215260521140622858.chn
+**Crawled:** 2026-06-08T11:42:59.878308
+
+---
+
+  * [eMagazine](https://kenh14.vn/nhom-chu-de/emagazine.chn "Magazine")
+  * [Genz Area](https://kenh14.vn/nhom-chu-de/genz-area.chn "Genz Area")
+  * [ShowLive](https://video.kenh14.vn/showlive.chn "Kenh14 showlive")
+  * [World Cup 2026](https://kenh14.vn/world-cup-2026.html "World Cup 2026")
+
+
+[ ](javascript:; "tìm kiếm")
+[ ](https://kenh14.vn/ "Tin tức, giải trí, xã hội")
+[ ](https://kenh14.vn/son-ngoc-minh-su-dung-ma-tuy-voi-ai-215260521140622858.chn)
+  * [ GÓP Ý GIAO DIỆN MỚI ](https://kenh14.vn/chinh-thuc-trai-nghiem-kenh14-theo-cach-hoan-toan-moi-tu-hom-nay-giao-dien-stream-20160926151850618.chn#k14-detail-comment)
+
+
+  * [TRANG CHỦ](https://kenh14.vn/ "Trang chủ")
+  * [Star](https://kenh14.vn/star.chn "Star")
+  * [Ciné](https://kenh14.vn/cine.chn "Ciné")
+  * [Musik](https://kenh14.vn/musik.chn "Musik")
+  * [Beauty & Fashion](https://kenh14.vn/beauty-fashion.chn "Beauty & Fashion")
+  * [Đời sống](https://kenh14.vn/doi-song.chn "Đời sống")
+  * [Money.14](https://kenh14.vn/money14.chn "Money.14")
+  * [Ăn - Chơi - Đi](https://kenh14.vn/an-choi-di.chn "Ăn - Chơi - Đi")
+  * [Xã hội](https://kenh14.vn/xa-hoi.chn "Xã hội")
+  * [Sức khỏe](https://kenh14.vn/suc-khoe.chn "Sức khỏe")
+  * [Tek-life](https://kenh14.vn/tek-life.chn "Tek-life")
+  * [Học đường](https://kenh14.vn/hoc-duong.chn "Học đường")
+  * [Xem Mua Luôn](https://kenh14.vn/xem-mua-luon.chn "Xem Mua Luôn")
+  * [Video](http://video.kenh14.vn/ "Video")
+  * [ ](javascript:; "mở rộng")
+    * #### [Star](https://kenh14.vn/star.chn)
+      * [Sao Việt](https://kenh14.vn/star/sao-viet.chn)
+      * [Hội bạn thân showbiz](https://kenh14.vn/star/hoi-ban-than-showbiz.chn)
+      * [TV Show](https://kenh14.vn/star/tv-show.chn)
+      * [Đi soi sao đi](https://kenh14.vn/star/di-soi-sao-di.chn)
+      * [IDOL 14](https://kenh14.vn/star/idol-14.chn)
+    * #### [Ciné](https://kenh14.vn/cine.chn)
+      * [Phim chiếu rạp](https://kenh14.vn/cine/phim-chieu-rap.chn)
+      * [Phim Việt Nam](https://kenh14.vn/cine/phim-viet-nam.chn)
+      * [Phim truyền hình](https://kenh14.vn/cine/phim-truyen-hinh.chn)
+      * [Hoa ngữ - Hàn Quốc](https://kenh14.vn/cine/hoa-ngu-han-quoc.chn)
+    * #### [Musik](https://kenh14.vn/musik.chn)
+      * [Âu-Mỹ](https://kenh14.vn/musik/au-my.chn)
+      * [Châu Á](https://kenh14.vn/musik/chau-a.chn)
+      * [Việt Nam](https://kenh14.vn/musik/viet-nam.chn)
+    * #### [Beauty & Fashion](https://kenh14.vn/beauty-fashion.chn)
+      * [Beauty](https://kenh14.vn/beauty-fashion/beauty.chn)
+      * [Fashion](https://kenh14.vn/beauty-fashion/fashion.chn)
+      * [B&F Pick](https://kenh14.vn/beauty-fashion/bf-pick.chn)
+    * #### [Đời sống](https://kenh14.vn/doi-song.chn)
+      * [Nhân vật](https://kenh14.vn/doi-song/nhan-vat.chn)
+      * [Xem ăn chơi](https://kenh14.vn/doi-song/xem-an-choi.chn)
+      * [Hot trend](https://kenh14.vn/doi-song/hot-trend.chn)
+      * [Yêu](https://kenh14.vn/doi-song/yeu.chn)
+    * #### [Money.14](https://kenh14.vn/money14.chn)
+      * [360 độ vàng](https://kenh14.vn/money14/360-do-vang.chn)
+    * #### [Ăn - Chơi - Đi](https://kenh14.vn/an-choi-di.chn)
+      * [Có như lời đồn](https://kenh14.vn/an-choi-di/co-nhu-loi-don.chn)
+      * [Chi tiêu điệu nghệ](https://kenh14.vn/an-choi-di/chi-tieu-dieu-nghe.chn)
+      * [Here We Go](https://kenh14.vn/an-choi-di/here-we-go.chn)
+    * #### [Xã hội](https://kenh14.vn/xa-hoi.chn)
+      * [Luật và chính sách](https://kenh14.vn/xa-hoi/luat-va-chinh-sach.chn)
+      * [Nóng trên mạng](https://kenh14.vn/xa-hoi/nong-tren-mang.chn)
+      * [Đô thị](https://kenh14.vn/xa-hoi/do-thi.chn)
+      * [Việt Nam hôm nay](https://kenh14.vn/xa-hoi/viet-nam-hom-nay.chn)
+    * #### [Sức khỏe](https://kenh14.vn/suc-khoe.chn)
+      * [Trẻ - Khỏe - Đẹp](https://kenh14.vn/suc-khoe/tre-khoe-dep.chn)
+      * [Sức khoẻ sinh sản](https://kenh14.vn/suc-khoe/suc-khoe-sinh-san.chn)
+      * [Chuyện nghề y](https://kenh14.vn/suc-khoe/chuyen-nghe-y.chn)
+      * [Vaccine](https://kenh14.vn/suc-khoe/vaccine.chn)
+      * [Các bệnh](https://kenh14.vn/suc-khoe/cac-benh.chn)
+    * #### [Tek-Life](https://kenh14.vn/tek-life.chn)
+      * [The Connected Home](https://kenh14.vn/tek-life/the-connected-home.chn)
+      * [How-To](https://kenh14.vn/tek-life/how-to.chn)
+      * [Sống số](https://kenh14.vn/tek-life/song-so.chn)
+      * [Unbox](https://kenh14.vn/tek-life/unbox.chn)
+      * [Xem xe](https://kenh14.vn/tek-life/xem-xe.chn)
+    * #### [Học đường](https://kenh14.vn/hoc-duong.chn)
+      * [Bản tin](https://kenh14.vn/hoc-duong/ban-tin.chn)
+      * [Nhân vật](https://kenh14.vn/hoc-duong/nhan-vat.chn)
+      * [Du học](https://kenh14.vn/hoc-duong/du-hoc.chn)
+      * [Tuyển sinh](https://kenh14.vn/hoc-duong/tuyen-sinh.chn)
+    * #### [Xem mua luôn](https://kenh14.vn/xem-mua-luon.chn)
+      * [Đẹp giống sao](https://kenh14.vn/xem-mua-luon/dep-giong-sao.chn)
+      * [Mua để đẹp](https://kenh14.vn/xem-mua-luon/mua-de-dep.chn)
+      * [Đồ gia dụng](https://kenh14.vn/xem-mua-luon/do-gia-dung.chn)
+      * [Deal xịn](https://kenh14.vn/xem-mua-luon/deal-xin.chn)
+    * #### [Sport](https://kenh14.vn/sport.chn)
+      * [Bóng đá](https://kenh14.vn/sport/bong-da.chn)
+      * [Hậu trường](https://kenh14.vn/sport/hau-truong.chn)
+      * [Pickleball](https://kenh14.vn/sport/pickleball.chn)
+      * [Esports](https://kenh14.vn/sport/esports.chn)
+    * #### [Thế giới đó đây](https://kenh14.vn/the-gioi-do-day.chn)
+      * [Khám phá](https://kenh14.vn/the-gioi-do-day/kham-pha.chn)
+      * [Độc lạ](https://kenh14.vn/the-gioi-do-day/doc-la.chn)
+    * #### [The 30s](https://kenh14.vn/the-30s.chn)
+Nhóm chủ đề
+#### Tải app
+    * [iOS](https://itunes.apple.com/us/app/kenh-14/id670518264?ls=1&mt=8 "Tải về từ App Store")
+    * [Android](https://play.google.com/store/apps/details?id=vcc.mobilenewsreader.kenh14 "Tải về từ Google Play")
+####  [Fanpage](https://www.facebook.com/K14vn "Fanpage")
+####  [Liên hệ](https://kenh14.vn/#kenh14-footer-wrapper)
+    * [Quảng cáo](https://kenh14.vn/adv.chn "Liên hệ quảng cáo")
+
+
+[ live ](javascript:; "live")
+  * [Star](https://kenh14.vn/star.chn "Star")
+  * [Sao Việt](https://kenh14.vn/star/sao-viet.chn "Sao Việt")
+  * [Hội bạn thân Showbiz](https://kenh14.vn/star/hoi-ban-than-showbiz.chn "Hội bạn thân Showbiz")
+  * [TV Show](https://kenh14.vn/star/tv-show.chn "TV Show")
+  * [Đi Soi Sao Đi](https://kenh14.vn/star/di-soi-sao-di.chn "Đi Soi Sao Đi")
+  * [IDOL 14](https://kenh14.vn/star/idol-14.chn "IDOL 14")
+
+
+#  Sơn Ngọc Minh sử dụng ma túy với ai? 
+Liên Hoa, Theo Phụ Nữ Mới  16:00 21/05/2026 
+[Chia sẻ ](javascript:;)
+[ Theo dõi Kenh14.vn trên ![logo](https://static.mediacdn.vn/thumb_w/80/nld/Images/ggnewslogo.png) ](https://news.google.com/publications/CAAqIggKIhxDQklTRHdnTWFnc0tDV3RsYm1neE5DNTJiaWdBUAE?ceid=VN:vi&oc=3 "Theo dõi Kenh14.vn trên googlenews")
+[](https://kenh14.vn/ "Trang chủ")
+[ ](javascript:; "Chia sẻ")
+Khai báo với cơ quan chức năng, Sơn Ngọc Minh ân hận về hành vi sai trái của mình. Đồng thời, nam ca sĩ nói lời xin lỗi với gia đình và những người đã yêu thương mình. 
+  * [ Ca sĩ Long Nhật và Sơn Ngọc Minh bị bắt tạm giam vì tội gì? ](https://kenh14.vn/ca-si-long-nhat-va-son-ngoc-minh-bi-bat-tam-giam-vi-toi-gi-215260520123639585.chn "Ca sĩ Long Nhật và Sơn Ngọc Minh bị bắt tạm giam vì tội gì?")
+  * [ Ca sĩ Long Nhật: "Trong lòng mặc cảm tội lỗi, tôi không thích ma tuý chút nào" ](https://kenh14.vn/ca-si-long-nhat-trong-long-mac-cam-toi-loi-toi-khong-thich-ma-tuy-chut-nao-215260520134900616.chn "Ca sĩ Long Nhật: "Trong lòng mặc cảm tội lỗi, tôi không thích ma tuý chút nào"")
+  * [ Bài đăng của Long Nhật trước khi bị khởi tố: "Em đi đánh bắt xa bờ mấy hôm" ](https://kenh14.vn/bai-dang-cua-long-nhat-truoc-khi-bi-khoi-to-em-di-danh-bat-xa-bo-may-hom-21526052013263055.chn "Bài đăng của Long Nhật trước khi bị khởi tố: "Em đi đánh bắt xa bờ mấy hôm"")
+
+
+Thông tin [Sơn Ngọc Minh](https://kenh14.vn/son-ngoc-minh.html "Sơn Ngọc Minh") - cựu thành viên nhóm nhạc V.Music bị khởi tố, bắt tạm giam liên quan đến đường dây ma túy quy mô lớn đang khiến dư luận đặc biệt xôn xao. Từng là gương mặt quen thuộc với khán giả trẻ qua hình ảnh thư sinh, hoạt động âm nhạc sôi nổi một thời, việc nam ca sĩ vướng vòng lao lý khiến nhiều người không khỏi bất ngờ. 
+Tại cơ quan điều tra, Sơn Ngọc Minh xuất hiện với vẻ ngoài tiều tụy, liên tục cúi đầu và có thái độ khá thành khẩn khi làm việc. Nam ca sĩ khai nhận đã sử dụng ma túy đá từ trước Tết Nguyên đán đến nay. Theo lời khai, Sơn Ngọc Minh thường sử dụng cùng nhóm bạn quen biết và từng được bạn rủ từ Cần Thơ lên TP.HCM để tụ tập sử dụng ma túy. 
+Tại cơ quan điều tra, Sơn Ngọc Minh cho biết rất hối hận về hành vi của mình. Nam ca sĩ nói: "Em nghĩ là sẽ ảnh hưởng tới mẹ em, sẽ ảnh hưởng tới tất cả những người xung quanh, người yêu thương, người trong gia đình…". 
+![](https://kenh14cdn.com/203336854389633024/2026/5/21/6947293509812599015328366621259510474864542n-1779266659988-17792666605561761065818-17793457161372129097325-134206-1779347032587-17793470329372068553359.jpg)
+Sơn Ngọc Minh khai báo hành vi sử dụng ma túy (Ảnh: Công an cung cấp)
+Vào khoảng đầu tháng 4, mạng xã hội từng xôn xao trước bài đăng tìm kiếm Sơn Ngọc Minh xuất hiện trong một nhóm cộng đồng tại Cần Thơ. Theo thông tin được chia sẻ khi đó, gia đình nam ca sĩ cho biết đã mất liên lạc với anh từ ngày 1/4 sau khi Sơn Ngọc Minh nói đi sang nhà bạn chơi nhưng sau đó không thể liên hệ. 
+  * #### [Long Nhật, Sơn Ngọc Minh vừa bị khởi tố trong đường dây ma tuý đặc biệt lớn là ai?](https://kenh14.vn/long-nhat-son-ngoc-minh-vua-bi-khoi-to-trong-duong-day-ma-tuy-dac-biet-lon-la-ai-215260520123807807.chn)
+
+
+Bài viết nhanh chóng nhận được nhiều sự chú ý từ cư dân mạng. Không ít người để lại bình luận hỏi thăm tình hình, đồng thời hỗ trợ lan truyền thông tin với hy vọng gia đình sớm tìm được nam ca sĩ. Người đăng tải mong ai gặp hoặc biết tung tích Sơn Ngọc Minh sẽ báo lại giúp người thân. 
+Sự việc từng khiến nhiều khán giả lo lắng vì Sơn Ngọc Minh "mất hút" nhiều ngày mà không có bất kỳ cập nhật nào trên mạng xã hội. Tuy nhiên, không lâu sau khi bài đăng lan truyền, phía diễn đàn đã thông báo gỡ bài vì gia đình xác nhận đã có thông tin liên quan đến nam ca sĩ. Dù vậy, thời điểm đó nguyên nhân cụ thể không được tiết lộ thêm. 
+![](https://kenh14cdn.com/203336854389633024/2026/5/21/thiet-ke-chua-co-ten-13-134522-1779347033941-1779347034217469407221.jpg)
+Bài đăng thông báo tìm liên lạc với Sơn Ngọc Minh cách đây hơn 1 tháng trước (Ảnh: Chụp màn hình)
+Ngày 20/5, Công an TP.HCM cho biết Cơ quan Cảnh sát điều tra đã khởi tố và tạm giam 71 bị can để điều tra các hành vi "Mua bán trái phép chất ma túy", "Tàng trữ trái phép chất ma túy" và "Tổ chức sử dụng trái phép chất ma túy". Trong số này có ông Long Nhật (59 tuổi, ca sĩ) và Sơn Ngọc Minh (36 tuổi, ca sĩ). 
+Sơn Ngọc Minh là ca sĩ từng được khán giả trẻ biết đến rộng rãi khi hoạt động trong nhóm nhạc nam V.Music – một trong những boygroup nổi bật của Vpop đầu thập niên 2010. Sở hữu ngoại hình sáng, phong cách thư sinh cùng chất giọng nhẹ nhàng, Sơn Ngọc Minh từng là gương mặt quen thuộc với khán giả yêu nhạc trẻ Việt Nam trong giai đoạn thị trường âm nhạc phát triển mạnh các nhóm nhạc thần tượng. 
+Sơn Ngọc Minh sinh năm 1990. Trước khi nổi tiếng, anh từng tham gia nhiều hoạt động văn nghệ và theo đuổi con đường ca hát chuyên nghiệp từ khá sớm. Tên tuổi của anh bắt đầu được chú ý khi gia nhập V.Music - nhóm nhạc được thành lập bởi công ty của nhạc sĩ Nguyễn Hải Phong. Nhóm gồm nhiều thành viên trẻ theo đuổi hình tượng hiện đại, năng động và hướng đến đối tượng khán giả tuổi teen. 
+Trong giai đoạn hoạt động mạnh nhất, V.Music tạo được dấu ấn với hàng loạt ca khúc như _Bức thư tình chưa gửi, Ngày hạnh phúc, Lời anh hứa, Nếu như anh đến…_ Nhóm cũng thường xuyên xuất hiện trong các bảng xếp hạng âm nhạc, chương trình truyền hình và sự kiện giải trí lớn. Sơn Ngọc Minh được xem là một trong những thành viên nổi bật nhờ ngoại hình điển trai cùng phong cách biểu diễn gần gũi. 
+Sau khi V.Music tan rã, Sơn Ngọc Minh bước vào con đường hoạt động solo. Tuy nhiên, giống nhiều thành viên bước ra từ mô hình nhóm nhạc, hành trình solo của anh gặp không ít khó khăn. Dù từng phát hành một số sản phẩm âm nhạc và tham gia các chương trình giải trí, Sơn Ngọc Minh chưa tạo được cú bật lớn để duy trì sức nóng như thời còn hoạt động trong V.Music. 
+![](https://kenh14cdn.com/203336854389633024/2026/5/21/70237576714295943725359032468932420987987432n-1779255607818600092483-1779259531478759183529-134742-1779347035213-1779347035449287737181.jpg)
+Sơn Ngọc Minh bị khởi tố, bắt tam giam vì liên quan đường dây ma túy (Ảnh: Công an cung cấp)
+[ Theo  Phụ Nữ Mới  _Copy link_ ](javascript:; "Theo  Phụ Nữ Mới")
+Link bài gốc _Lấy link_
+[ https://phunumoi.net.vn/son-ngoc-minh-su-dung-ma-tuy-voi-ai-d352506.html ](javascript:; "https://phunumoi.net.vn/son-ngoc-minh-su-dung-ma-tuy-voi-ai-d352506.html")
+[ Gia đình không rõ tung tích Sơn Ngọc Minh ](https://kenh14.vn/gia-dinh-khong-ro-tung-tich-son-ngoc-minh-215260520145554031.chn "Gia đình không rõ tung tích Sơn Ngọc Minh")
+  * [sao việt 24h](https://kenh14.vn/sao-viet-24h.html "sao việt 24h")
+  * [Ca sĩ Long Nhật và Sơn Ngọc Minh bị bắt](https://kenh14.vn/ca-si-long-nhat-va-son-ngoc-minh-bi-bat.html " Ca sĩ Long Nhật và Sơn Ngọc Minh bị bắt")
+  * [giải trí](https://kenh14.vn/giai-tri.html " giải trí")
+  * [Sơn Ngọc Minh](https://kenh14.vn/son-ngoc-minh.html " Sơn Ngọc Minh")
+
+
+TIN CÙNG CHUYÊN MỤC
+Xem theo ngày
+  * Ngày 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+  * Tháng  Tháng 1 Tháng 2 Tháng 3 Tháng 4 Tháng 5 Tháng 6 Tháng 7 Tháng 8 Tháng 9 Tháng 10 Tháng 11 Tháng 12
+  * 2020 2021 2022 2023 2024 2025 2026
+  * Xem
+
+
+TIN CÙNG CHUYÊN MỤC
+Xem theo ngày
+  * Ngày 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+  * Tháng  Tháng 1 Tháng 2 Tháng 3 Tháng 4 Tháng 5 Tháng 6 Tháng 7 Tháng 8 Tháng 9 Tháng 10 Tháng 11 Tháng 12
+  * 2020 2021 2022 2023 2024 2025 2026
+  * Xem
+
+
+[ ![](https://kenh14cdn.com/zoom/220_140/203336854389633024/2026/6/8/a931e224c2644e40e85fd8f590a9e8ce1280-17808892412591475275304-0-0-577-923-crop-17808892455602000557550.jpg) ](https://kenh14.vn/bai-dang-cuoi-cung-gay-nghen-long-cua-nam-dien-vien-vua-dot-ngot-qua-doi-sau-chuyen-nghi-duong-cung-vo-215260608102841561.chn "Bài đăng cuối cùng gây nghẹn lòng của nam diễn viên vừa đột ngột qua đời sau chuyến nghỉ dưỡng cùng vợ")
+####  [ Bài đăng cuối cùng gây nghẹn lòng của nam diễn viên vừa đột ngột qua đời sau chuyến nghỉ dưỡng cùng vợ ](https://kenh14.vn/bai-dang-cuoi-cung-gay-nghen-long-cua-nam-dien-vien-vua-dot-ngot-qua-doi-sau-chuyen-nghi-duong-cung-vo-215260608102841561.chn "Bài đăng cuối cùng gây nghẹn lòng của nam diễn viên vừa đột ngột qua đời sau chuyến nghỉ dưỡng cùng vợ") Nổi bật
+[ ![](https://kenh14cdn.com/zoom/220_140/203336854389633024/2026/6/8/ksj-17808889174611460029894-0-0-420-672-crop-1780888927697221193122.jpg) ](https://kenh14.vn/kim-soo-hyun-nhan-tin-du-ngay-dau-tuan-215260608102426194.chn "Kim Soo Hyun nhận tin dữ ngay đầu tuần")
+####  [ Kim Soo Hyun nhận tin dữ ngay đầu tuần ](https://kenh14.vn/kim-soo-hyun-nhan-tin-du-ngay-dau-tuan-215260608102426194.chn "Kim Soo Hyun nhận tin dữ ngay đầu tuần") Nổi bật
+[ ![](https://kenh14cdn.com/zoom/220_140/203336854389633024/2026/6/8/avatar1780888794277-1780888794792155551998-0-0-896-1434-crop-1780888949101170792853.jpg) ](https://kenh14.vn/thong-tin-nu-dien-vien-chuan-bi-cuoi-hong-hai-nhi-kem-10-tuoi-gay-ngo-ngang-215260608102156301.chn "Thông tin nữ diễn viên chuẩn bị cưới "hồng hài nhi" kém 10 tuổi gây ngỡ ngàng")
+####  [ Thông tin nữ diễn viên chuẩn bị cưới "hồng hài nhi" kém 10 tuổi gây ngỡ ngàng ](https://kenh14.vn/thong-tin-nu-dien-vien-chuan-bi-cuoi-hong-hai-nhi-kem-10-tuoi-gay-ngo-ngang-215260608102156301.chn "Thông tin nữ diễn viên chuẩn bị cưới "hồng hài nhi" kém 10 tuổi gây ngỡ ngàng") - 
+[ ](https://kenh14.vn/toc-tien-cong-khai-khoanh-khac-chua-tung-thay-ben-tran-ngoc-vang-215260608103905977.chn "Tóc Tiên công khai khoảnh khắc chưa từng thấy bên Trần Ngọc Vàng")
+####  [ Tóc Tiên công khai khoảnh khắc chưa từng thấy bên Trần Ngọc Vàng ](https://kenh14.vn/toc-tien-cong-khai-khoanh-khac-chua-tung-thay-ben-tran-ngoc-vang-215260608103905977.chn "Tóc Tiên công khai khoảnh khắc chưa từng thấy bên Trần Ngọc Vàng") - 
+[ ![](https://kenh14cdn.com/zoom/220_140/203336854389633024/2026/6/7/hg2-1780829721681531838809-11-0-431-672-crop-1780829731933349943697.jpg) ](https://kenh14.vn/cung-cam-1-trieu-di-cho-han-ga-in-duoc-tung-ho-con-vo-jang-dong-gun-bi-mang-chui-nhu-tat-nuoc-vao-mat-215260607175727714.chn "Cùng cầm 1 triệu đi chợ, Han Ga In được tung hô còn vợ Jang Dong Gun bị mắng chửi như “tát nước vào mặt”")
+####  [ Cùng cầm 1 triệu đi chợ, Han Ga In được tung hô còn vợ Jang Dong Gun bị mắng chửi như “tát nước vào mặt” ](https://kenh14.vn/cung-cam-1-trieu-di-cho-han-ga-in-duoc-tung-ho-con-vo-jang-dong-gun-bi-mang-chui-nhu-tat-nuoc-vao-mat-215260607175727714.chn "Cùng cầm 1 triệu đi chợ, Han Ga In được tung hô còn vợ Jang Dong Gun bị mắng chửi như “tát nước vào mặt”") - 
+[ ![](https://kenh14cdn.com/zoom/220_140/203336854389633024/2026/6/8/avatar1780880048588-1780880048974368532313.jpg) ](https://kenh14.vn/lona-kieu-loan-lo-bung-lum-lum-sau-khi-bi-bat-gap-ve-chung-nha-bac-si-chiem-quoc-thai-215260608075603671.chn "Lona Kiều Loan lộ bụng lùm lùm sau khi bị bắt gặp về chung nhà bác sĩ Chiêm Quốc Thái")
+####  [ Lona Kiều Loan lộ bụng lùm lùm sau khi bị bắt gặp về chung nhà bác sĩ Chiêm Quốc Thái ](https://kenh14.vn/lona-kieu-loan-lo-bung-lum-lum-sau-khi-bi-bat-gap-ve-chung-nha-bac-si-chiem-quoc-thai-215260608075603671.chn "Lona Kiều Loan lộ bụng lùm lùm sau khi bị bắt gặp về chung nhà bác sĩ Chiêm Quốc Thái") - 
+Đóng
+  * [Star](https://kenh14.vn/star.chn "Star")
+  * [Ciné](https://kenh14.vn/cine.chn "Ciné")
+  * [Musik](https://kenh14.vn/musik.chn "Musik")
+  * [Beauty & Fashion](https://kenh14.vn/beauty-fashion.chn "Beauty & Fashion")
+  * [Sport](https://kenh14.vn/sport.chn "Sport")
+  * [Đời sống](https://kenh14.vn/doi-song.chn "Đời sống")
+  * [Xã hội](https://kenh14.vn/xa-hoi.chn "Xã hội")
+  * [Ăn - Chơi - Đi](https://kenh14.vn/an-choi-di.chn "Ăn - Chơi - Đi")
+  * [Xem Mua Luôn](https://kenh14.vn/xem-mua-luon.chn "Xem Mua Luôn")
+  * [Thế giới đó đây](https://kenh14.vn/the-gioi-do-day.chn "Thế giới đó đây")
+  * [Sức khỏe](https://kenh14.vn/suc-khoe.chn "Sức khỏe")
+  * [Tek-Life](https://kenh14.vn/tek-life.chn "Tek-Life")
+  * [Học đường](https://kenh14.vn/hoc-duong.chn "Học đường")
+  * [Money.14](https://kenh14.vn/money14.chn "Money.14")
+  * [Video](http://video.kenh14.vn/ "Video")
+
+
+[](http://kenh14.vn/ "Kênh 14")
+ĐÓNG GÓP NỘI DUNG
+[câu hỏi thường gặp](https://kenh14.vn/static/faq-lightbox.htm "Câu hỏi thường gặp") bandoc@kenh14.vn
+Kenh14.vn rất hoan nghênh độc giả gửi thông tin và góp ý cho chúng tôi.
+trụ sở hà nội
+Tầng 21, Tòa nhà Center Building, Hapulico Complex, Số 01, phố Nguyễn Huy Tưởng, phường Thanh Xuân, thành phố Hà Nội   
+Điện thoại: 024 7309 5555, máy lẻ 62.370 
+[xem bản đồ](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d931.2056353845325!2d105.80772655513327!3d20.999749453353736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac9788f39f1d%3A0xfe0d7beb1d82d125!2zSGFwdWxpY28gQ29tcGxleCwgVGhhbmggWHXDom4gVHJ1bmcsIFRoYW5oIFh1w6JuLCBIw6AgTuG7mWksIFZpZXRuYW0!5e0!3m2!1sen!2s!4v1434096825076 "Xem bản đồ")
+trụ sở tp.hồ chí minh
+Tầng 4, Tòa nhà 123, số 127 Võ Văn Tần, Phường Xuân Hòa, TPHCM   
+Điện thoại: 028 7307 7979 
+[xem bản đồ](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.463428635451!2d106.689822!3d10.775774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f3b1ecb0111%3A0x45e6492955b75232!2zMTIzIFbDtSBWxINuIFThuqduLCBwaMaw4budbmcgNiwgUXXhuq1uIDMsIEjhu5MgQ2jDrSBNaW5oLCBWaWV0bmFt!5e0!3m2!1sen!2s!4v1434097259116 "Xem bản đồ")
+chịu trách nhiệm quản lý nội dung
+Bà Nguyễn Bích Minh
+hợp tác truyền thông
+024.73095555 (máy lẻ 62.370)
+marketing@kenh14.vn
+liên hệ quảng cáo
+02473007108
+giaitrixahoi@admicro.vn
+[Chat với tư vấn viên](https://www.messenger.com/t/K14vn "Xem chi tiết") [xem chi tiết](https://kenh14.vn/adv.chn "Xem chi tiết")
+[Chính sách bảo mật](https://kenh14.vn/static/chinh-sach-bao-mat.htm)
+[ ![Vccorp](https://kenh14cdn.com/web_images/vccorp-s.png) ](https://vccorp.vn/ "Công ty Cổ phần VCCorp")
+© Copyright 2007 - 2026 – Công ty Cổ phần VCCorp
+Tầng 17, 19, 20, 21 Tòa nhà Center Building - Hapulico Complex, Số 01, phố Nguyễn Huy Tưởng, phường Thanh Xuân, thành phố Hà Nội
+Giấy phép thiết lập trang thông tin điện tử tổng hợp trên mạng số 2215/GP-TTĐT do Sở Thông tin và Truyền thông Hà Nội cấp ngày 10 tháng 4 năm 2019
