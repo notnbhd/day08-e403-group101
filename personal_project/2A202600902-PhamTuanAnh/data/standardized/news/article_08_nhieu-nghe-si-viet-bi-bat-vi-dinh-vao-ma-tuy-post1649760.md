@@ -1,0 +1,274 @@
+# Nhiều nghệ sĩ Việt bị bắt vì dính vào ma túy
+
+**Source:** https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo
+**Crawled:** 2026-06-08T11:27:31.950087
+
+---
+
+Thứ Hai 08/06/2026
+[Hotline: 0865015015](tel:+84865015015 "Gọi điện thoại") [Tiền Phong Nhật báo](https://tienphong.vn/nhat-bao/ "Tiền Phong Nhật báo") [Sinh viên Việt Nam](https://svvn.tienphong.vn "Sinh viên Việt Nam") [Hoa Học trò](https://hoahoctro.tienphong.vn "Hoa Học trò") [Tòa soạn](https://tienphong.vn/toa-soan.tpo "Tòa soạn") [Quảng cáo](https://tienphong.vn/quang-cao.tpo "Quảng cáo")
+[ ](https://www.facebook.com/www.tienphong.vn/ "facebook") [ ](https://www.youtube.com/@baotienphong "youtube")
+### [Báo điện tử Tiền Phong](https://tienphong.vn/ "Báo điện tử Tiền Phong")
+[](javascript:void\(0\);)
+  * [Trang chủ](https://tienphong.vn/ "Trang chủ")
+  * [Xã hội](https://tienphong.vn/xa-hoi/ "Xã hội")
+    * [Chính trị](https://tienphong.vn/chinh-tri/ "Chính trị")
+    * [Tin tức](https://tienphong.vn/xa-hoi-tin-tuc/ "Tin tức")
+    * [Phóng sự](https://tienphong.vn/xa-hoi-phong-su/ "Phóng sự")
+  * [Kinh tế](https://tienphong.vn/kinh-te/ "Kinh tế")
+    * [Thị trường](https://tienphong.vn/kinh-te-thi-truong/ "Thị trường")
+    * [Doanh nghiệp](https://tienphong.vn/doanh-nghiep/ "Doanh nghiệp")
+    * [Đầu tư](https://tienphong.vn/dau-tu/ "Đầu tư")
+    * [Tài chính - Chứng khoán](https://tienphong.vn/tai-chinh-chung-khoan/ "Tài chính - Chứng khoán")
+    * [Giảm nghèo bền vững](https://tienphong.vn/giam-ngheo-ben-vung/ "Giảm nghèo bền vững")
+  * [Sóng xanh](https://tienphong.vn/song-xanh/ "Sóng xanh")
+  * [Địa ốc](https://tienphong.vn/dia-oc/ "Địa ốc")
+    * [Đô thị - Dự án](https://tienphong.vn/do-thi-du-an/ "Đô thị - Dự án")
+    * [Thị trường - Doanh nghiệp](https://tienphong.vn/thi-truong-doanh-nghiep/ "Thị trường - Doanh nghiệp")
+    * [Nhà đẹp - Kiến trúc](https://tienphong.vn/nha-dep-kien-truc/ "Nhà đẹp - Kiến trúc")
+    * [Chuyên gia - Tư vấn](https://tienphong.vn/chuyen-gia-tu-van/ "Chuyên gia - Tư vấn")
+    * [Media Địa ốc](https://tienphong.vn/media-dia-oc/ "Media Địa ốc")
+  * [Sức khỏe](https://tienphong.vn/suc-khoe/ "Sức khỏe")
+    * [Y khoa](https://tienphong.vn/y-khoa/ "Y khoa")
+    * [Thuốc tốt](https://tienphong.vn/thuoc-tot/ "Thuốc tốt")
+    * [Khỏe đẹp](https://tienphong.vn/khoe-dep/ "Khỏe đẹp")
+    * [Giới tính](https://tienphong.vn/suc-khoe-gioi-tinh/ "Giới tính")
+    * [Mẹ và bé](https://tienphong.vn/me-va-be/ "Mẹ và bé")
+    * [Phòng chống ung thư](https://tienphong.vn/phong-chong-ung-thu/ "Phòng chống ung thư")
+  * [Thế giới](https://tienphong.vn/the-gioi/ "Thế giới")
+    * [Phân tích - Bình luận](https://tienphong.vn/the-gioi-phan-tich-binh-luan/ "Phân tích - Bình luận")
+    * [Chuyện lạ](https://tienphong.vn/chuyen-la/ "Chuyện lạ")
+  * [Giới trẻ](https://tienphong.vn/gioi-tre/ "Giới trẻ")
+    * [Nhịp sống](https://tienphong.vn/gioi-tre-nhip-song/ "Nhịp sống")
+    * [Cộng đồng mạng](https://tienphong.vn/cong-dong-mang/ "Cộng đồng mạng")
+  * [Pháp luật](https://tienphong.vn/phap-luat/ "Pháp luật")
+    * [Bản tin 113](https://tienphong.vn/ban-tin-113/ "Bản tin 113")
+    * [Pháp đình](https://tienphong.vn/phap-luat-chuyen-toa/ "Pháp đình")
+  * [Thể thao](https://tienphong.vn/the-thao/ "Thể thao")
+    * [Bóng đá](https://tienphong.vn/the-thao-bong-da/ "Bóng đá")
+    * [Hậu trường thể thao](https://tienphong.vn/the-thao-hau-truong/ "Hậu trường thể thao")
+    * [Golf](https://tienphong.vn/the-thao-golf/ "Golf")
+    * [HIGHLIGHTS](https://tienphong.vn/video-the-thao/ "HIGHLIGHTS")
+  * [Người lính](https://tienphong.vn/hanh-trang-nguoi-linh/ "Người lính")
+  * [Xe](https://tienphong.vn/xe/ "Xe")
+    * [Thị trường xe](https://tienphong.vn/thi-truong-xe/ "Thị trường xe")
+    * [Đánh giá xe](https://tienphong.vn/danh-gia-xe/ "Đánh giá xe")
+    * [Cộng đồng xe](https://tienphong.vn/cong-dong-xe/ "Cộng đồng xe")
+    * [Tư vấn](https://tienphong.vn/xe-tu-van/ "Tư vấn")
+  * [Văn hóa](https://tienphong.vn/van-hoa/ "Văn hóa")
+    * [Chuyển động văn hóa](https://tienphong.vn/chuyen-dong-van-hoa/ "Chuyển động văn hóa")
+    * [Góc nhìn](https://tienphong.vn/goc-nhin/ "Góc nhìn")
+    * [Sách](https://tienphong.vn/sach/ "Sách")
+  * [Giải trí](https://tienphong.vn/giai-tri/ "Giải trí")
+    * [Hậu trường sao](https://tienphong.vn/giai-tri-hau-truong/ "Hậu trường sao")
+    * [Phim ảnh](https://tienphong.vn/phim-anh/ "Phim ảnh")
+    * [Âm nhạc](https://tienphong.vn/am-nhac/ "Âm nhạc")
+    * [Thời trang - Làm đẹp](https://tienphong.vn/thoi-trang-lam-dep/ "Thời trang - Làm đẹp")
+  * [Giáo dục](https://tienphong.vn/giao-duc/ "Giáo dục")
+    * [Cổng trường](https://tienphong.vn/cong-truong/ "Cổng trường")
+    * [Tuyển sinh](https://tienphong.vn/tuyen-sinh2011/ "Tuyển sinh")
+    * [Du học](https://tienphong.vn/giao-duc-du-hoc/ "Du học")
+  * [Khoa học](https://tienphong.vn/khoa-hoc/ "Khoa học")
+  * [Hoa hậu](https://tienphong.vn/hoa-hau/ "Hoa hậu")
+    * [Tin tức trong nước](https://tienphong.vn/hh-tin-tuc-trong-nuoc/ "Tin tức trong nước")
+    * [Quốc tế](https://tienphong.vn/quoc-te/ "Quốc tế")
+    * [Hoa hậu Việt Nam](https://tienphong.vn/hoa-hau-viet-nam/ "Hoa hậu Việt Nam")
+  * [Video](https://tienphong.vn/video-clip/ "Video")
+    * [Thời sự](https://tienphong.vn/thoi-su/ "Thời sự")
+    * [Showbiz-TV](https://tienphong.vn/showbiz-tv/ "Showbiz-TV")
+    * [Thời tiết](https://tienphong.vn/thoi-tiet/ "Thời tiết")
+    * [Thị trường](https://tienphong.vn/video-thi-truong/ "Thị trường")
+    * [Quân sự](https://tienphong.vn/quan-su/ "Quân sự")
+    * [Mutex](https://tienphong.vn/mutex/ "Mutex")
+  * [Xem thêm](javascript:void\(0\); "Xem thêm")
+
+
+Chuyên mục
+[Xã hội](https://tienphong.vn/xa-hoi/ "Xã hội") [Chính trị](https://tienphong.vn/chinh-tri/ "Chính trị") [Tin tức](https://tienphong.vn/xa-hoi-tin-tuc/ "Tin tức") [Phóng sự](https://tienphong.vn/xa-hoi-phong-su/ "Phóng sự")
+[Kinh tế](https://tienphong.vn/kinh-te/ "Kinh tế") [Thị trường](https://tienphong.vn/kinh-te-thi-truong/ "Thị trường") [Doanh nghiệp](https://tienphong.vn/doanh-nghiep/ "Doanh nghiệp") [Đầu tư](https://tienphong.vn/dau-tu/ "Đầu tư") [Tài chính - Chứng khoán](https://tienphong.vn/tai-chinh-chung-khoan/ "Tài chính - Chứng khoán") [Giảm nghèo bền vững](https://tienphong.vn/giam-ngheo-ben-vung/ "Giảm nghèo bền vững") [Xem thêm](javascript:; "Xem thêm")
+[Sóng xanh](https://tienphong.vn/song-xanh/ "Sóng xanh") [Di chuyển xanh](https://tienphong.vn/di-chuyen-xanh/ "Di chuyển xanh") [Net zero](https://tienphong.vn/netzero/ "Net zero") [Đầu tư](https://tienphong.vn/song-xanh-dau-tu/ "Đầu tư") [Lifestyle](https://tienphong.vn/lifestyle/ "Lifestyle") [Xanh 4.0](https://tienphong.vn/xanh-4-0/ "Xanh 4.0") [Xem thêm](javascript:; "Xem thêm")
+[Địa ốc](https://tienphong.vn/dia-oc/ "Địa ốc") [Đô thị - Dự án](https://tienphong.vn/do-thi-du-an/ "Đô thị - Dự án") [Thị trường - Doanh nghiệp](https://tienphong.vn/thi-truong-doanh-nghiep/ "Thị trường - Doanh nghiệp") [Nhà đẹp - Kiến trúc](https://tienphong.vn/nha-dep-kien-truc/ "Nhà đẹp - Kiến trúc") [Chuyên gia - Tư vấn](https://tienphong.vn/chuyen-gia-tu-van/ "Chuyên gia - Tư vấn") [Media Địa ốc](https://tienphong.vn/media-dia-oc/ "Media Địa ốc") [Xem thêm](javascript:; "Xem thêm")
+[Sức khỏe](https://tienphong.vn/suc-khoe/ "Sức khỏe") [Y khoa](https://tienphong.vn/y-khoa/ "Y khoa") [Thuốc tốt](https://tienphong.vn/thuoc-tot/ "Thuốc tốt") [Khỏe đẹp](https://tienphong.vn/khoe-dep/ "Khỏe đẹp") [Giới tính](https://tienphong.vn/suc-khoe-gioi-tinh/ "Giới tính") [Mẹ và bé](https://tienphong.vn/me-va-be/ "Mẹ và bé") [Phòng chống ung thư](https://tienphong.vn/phong-chong-ung-thu/ "Phòng chống ung thư") [Xem thêm](javascript:; "Xem thêm")
+[Thế giới](https://tienphong.vn/the-gioi/ "Thế giới") [Phân tích - Bình luận](https://tienphong.vn/the-gioi-phan-tich-binh-luan/ "Phân tích - Bình luận") [Chuyện lạ](https://tienphong.vn/chuyen-la/ "Chuyện lạ")
+[Giới trẻ](https://tienphong.vn/gioi-tre/ "Giới trẻ") [Nhịp sống](https://tienphong.vn/gioi-tre-nhip-song/ "Nhịp sống") [Cộng đồng mạng](https://tienphong.vn/cong-dong-mang/ "Cộng đồng mạng")
+[Pháp luật](https://tienphong.vn/phap-luat/ "Pháp luật") [Bản tin 113](https://tienphong.vn/ban-tin-113/ "Bản tin 113") [Pháp đình](https://tienphong.vn/phap-luat-chuyen-toa/ "Pháp đình")
+[Thể thao](https://tienphong.vn/the-thao/ "Thể thao") [Bóng đá](https://tienphong.vn/the-thao-bong-da/ "Bóng đá") [Hậu trường thể thao](https://tienphong.vn/the-thao-hau-truong/ "Hậu trường thể thao") [Golf](https://tienphong.vn/the-thao-golf/ "Golf") [HIGHLIGHTS](https://tienphong.vn/video-the-thao/ "HIGHLIGHTS") [Xem thêm](javascript:; "Xem thêm")
+[Người lính](https://tienphong.vn/hanh-trang-nguoi-linh/ "Người lính")
+[Xe](https://tienphong.vn/xe/ "Xe") [Thị trường xe](https://tienphong.vn/thi-truong-xe/ "Thị trường xe") [Đánh giá xe](https://tienphong.vn/danh-gia-xe/ "Đánh giá xe") [Cộng đồng xe](https://tienphong.vn/cong-dong-xe/ "Cộng đồng xe") [Tư vấn](https://tienphong.vn/xe-tu-van/ "Tư vấn") [Xem thêm](javascript:; "Xem thêm")
+[Văn hóa](https://tienphong.vn/van-hoa/ "Văn hóa") [Chuyển động văn hóa](https://tienphong.vn/chuyen-dong-van-hoa/ "Chuyển động văn hóa") [Sách](https://tienphong.vn/sach/ "Sách") [Góc nhìn](https://tienphong.vn/goc-nhin/ "Góc nhìn")
+[Giải trí](https://tienphong.vn/giai-tri/ "Giải trí") [Phim ảnh](https://tienphong.vn/phim-anh/ "Phim ảnh") [Hậu trường sao](https://tienphong.vn/giai-tri-hau-truong/ "Hậu trường sao") [Âm nhạc](https://tienphong.vn/am-nhac/ "Âm nhạc") [Thời trang - Làm đẹp](https://tienphong.vn/thoi-trang-lam-dep/ "Thời trang - Làm đẹp") [Xem thêm](javascript:; "Xem thêm")
+[Giáo dục](https://tienphong.vn/giao-duc/ "Giáo dục") [Cổng trường](https://tienphong.vn/cong-truong/ "Cổng trường") [Tuyển sinh](https://tienphong.vn/tuyen-sinh2011/ "Tuyển sinh") [Du học](https://tienphong.vn/giao-duc-du-hoc/ "Du học")
+[Khoa học](https://tienphong.vn/khoa-hoc/ "Khoa học")
+[Hoa hậu](https://tienphong.vn/hoa-hau/ "Hoa hậu") [Tin tức trong nước](https://tienphong.vn/hh-tin-tuc-trong-nuoc/ "Tin tức trong nước") [Hoa hậu Việt Nam](https://tienphong.vn/hoa-hau-viet-nam/ "Hoa hậu Việt Nam") [Quốc tế](https://tienphong.vn/quoc-te/ "Quốc tế")
+[Bạn đọc](https://tienphong.vn/ban-doc/ "Bạn đọc") [Điều tra](https://tienphong.vn/ban-doc-dieu-tra/ "Điều tra") [Diễn đàn](https://tienphong.vn/ban-doc-dien-dan/ "Diễn đàn") [Hồi âm](https://tienphong.vn/ban-doc-hoi-am/ "Hồi âm") [Nhân ái](https://tienphong.vn/ban-doc-nhan-ai/ "Nhân ái") [Xem thêm](javascript:; "Xem thêm")
+[Video](https://tienphong.vn/video-clip/ "Video") [Thời sự](https://tienphong.vn/thoi-su/ "Thời sự") [Showbiz-TV](https://tienphong.vn/showbiz-tv/ "Showbiz-TV") [Thời tiết](https://tienphong.vn/thoi-tiet/ "Thời tiết") [Thị trường](https://tienphong.vn/video-thi-truong/ "Thị trường") [Quân sự](https://tienphong.vn/quan-su/ "Quân sự") [Mutex](https://tienphong.vn/mutex/ "Mutex") [Xem thêm](javascript:; "Xem thêm")
+[Tôi nghĩ](https://tienphong.vn/toi-nghi/ "Tôi nghĩ")
+[Nhật báo](https://tienphong.vn/nhat-bao/ "Nhật báo")
+[Hàng không - Du lịch](https://tienphong.vn/hang-khong-du-lich/ "Hàng không - Du lịch") [Hành trình](https://tienphong.vn/hanh-trinh/ "Hành trình") [Mở vali](https://tienphong.vn/mo-vali/ "Mở vali") [Vivu](https://tienphong.vn/vi-vu/ "Vivu") [Khoảnh khắc](https://tienphong.vn/khoanh-khac/ "Khoảnh khắc") [Đối thoại](https://tienphong.vn/doi-thoai/ "Đối thoại") [Xem thêm](javascript:; "Xem thêm")
+[Nhịp sống Thủ đô](https://tienphong.vn/nhip-song-thu-do/ "Nhịp sống Thủ đô") [Đời sống](https://tienphong.vn/nstd-doi-song/ "Đời sống") [Giao thông - Đô thị](https://tienphong.vn/nstd-giao-thong-do-thi/ "Giao thông - Đô thị") [Đầu tư](https://tienphong.vn/nstd-dau-tu/ "Đầu tư") [Môi trường](https://tienphong.vn/nstd-moi-truong/ "Môi trường") [Xem thêm](javascript:; "Xem thêm")
+[Nhịp sống phương Nam](https://tienphong.vn/nhip-song-phuong-nam/ "Nhịp sống phương Nam") [Chuyển động 24h](https://tienphong.vn/chuyen-dong-24h/ "Chuyển động 24h") [Giao thông – Đô thị](https://tienphong.vn/giao-thong-do-thi/ "Giao thông – Đô thị") [Kinh tế - Thị trường](https://tienphong.vn/kinh-te--thi-truong/ "Kinh tế - Thị trường") [Media](https://tienphong.vn/media/ "Media") [Xem thêm](javascript:; "Xem thêm")
+[Tết Việt](https://tienphong.vn/tet-viet/ "Tết Việt")
+24h
+[Đọc & nghe nhanh](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo "Đọc & nghe nhanh")
+[Điểm tin](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo "Điểm tin")
+[Xem nhanh](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo "Xem nhanh")
+[Đọc nhiều](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo "Đọc nhiều")
+Multimedia
+[Ảnh](https://tienphong.vn/photo/ "Ảnh")
+[Podcast](https://tienphong.vn/podcast/ "Podcast")
+[Infographics](https://tienphong.vn/infographics/ "Infographics")
+[Quizz](https://tienphong.vn/quizz/ "Quizz")
+[Longform](https://tienphong.vn/longform/ "Longform")
+[Âm nhạc](https://tienphong.vn/am-nhac/ "Âm nhạc")
+Các trang khác [Sinh viên Việt Nam](https://svvn.tienphong.vn "Sinh viên Việt Nam") [Hoa Học trò](https://hoahoctro.tienphong.vn "Hoa Học trò")
+Liên hệ quảng cáo [0909559988](tel:+84909559988) booking@baotienphong.com.vn
+Tòa soạn D29, Phạm Văn Bạch, P.Cầu Giấy, Hà Nội [024.39431250](tel:+842439431250)
+Đặt mua báo in [(024)39439664](tel:+842439439664) [0908988666](tel:+84908988666)
+[Bạn đọc làm báo](https://tienphong.vn/ban-doc-lam-bao.tpo "Bạn đọc làm báo") [Đồng hành cùng Tiền phong](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo "Đồng hành cùng Tiền phong")
+[Giới thiệu](https://tienphong.vn/toa-soan.tpo "Giới thiệu<") [Nhật báo](https://tienphong.vn/nhat-bao/ "Nhật báo") [Sự kiện](https://tienphong.vn/topics.html "Sự kiện") [Quảng cáo](https://tienphong.vn/quang-cao.tpo "Quảng cáo")
+[Theo dõi Báo Tiền phong trên](javascript:void\(0\); "Theo dõi Báo Tiền phong trên") [fb](https://www.facebook.com/www.tienphong.vn/) [yt](https://www.youtube.com/@baotienphong) [tt](https://www.tiktok.com/@baotienphong.official) [zl](https://zalo.me/783607375436573981) [gg](https://news.google.com/publications/CAAqJggKIiBDQklTRWdnTWFnNEtESFJwWlc1d2FHOXVaeTUyYmlnQVAB?hl=vi&gl=VN&ceid=VN%3Avi)
+##  [Văn hóa](https://tienphong.vn/van-hoa/ "Văn hóa")
+[ chia sẻ ](javascript:void\(0\); "Chia sẻ") [ text ](javascript:void\(0\); "Phông chữ") [ in báo ](javascript:void\(0\); "In bài viết") [ bình luận ](javascript:void\(0\); "Bình luận") [Google News](https://news.google.com/publications/CAAqJggKIiBDQklTRWdnTWFnNEtESFJwWlc1d2FHOXVaeTUyYmlnQVAB?hl=vi&gl=VN&ceid=VN%3Avi "Google News")
+[ chia sẻ ](javascript:void\(0\); "Facebook") [ chia sẻ ](javascript:void\(0\); "Twitter") [ copy link ](javascript:void\(0\); "Copy link")
+#  Nhiều nghệ sĩ Việt bị bắt vì dính vào ma túy 
+Thu An 
+27/06/2024 14:16
+[ Nghe ](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo#tts "Nghe") [ Chia sẻ ](javascript:void\(0\); "Chia sẻ") [ Lưu tin ](javascript:void\(0\); "Lưu bài viết") [ Bình luận ](javascript:void\(0\); "Bình luận") [ Trở về ](https://tienphong.vn/van-hoa/ "Trở về")
+TPO - Không ít nghệ sĩ nhận bản án tù vì tàng trữ, mua bán, sử dụng ma túy. Trước vụ việc người mẫu Đinh Nhi Ko Lai bị bắt hôm 25/6, diễn viên Hiệp Gà, Lệ Hằng, Hữu Tín... cũng từng vướng vào vòng lao lý. 
+### **Bản án cho[nghệ sĩ](https://tienphong.vn/tag/ngh%e1%bb%87+s%c4%a9.tpo "nghệ sĩ") dính tới chất cấm**
+Ngày 25/6, Công an quận 1, TP.HCM khởi tố, [tạm giam ](https://tienphong.vn/nguoi-mau-nam-vuong-viet-bi-bat-post1649347.tpo)[người mẫu](https://tienphong.vn/giai-tri/ "người mẫu") Đinh Nhi Ko Lai cùng nhiều đối tượng khác về hành vi tàng trữ trái phép chất ma túy. Trước khi bị bắt Đinh Nhi Ko Lai (hay còn được biết đến là Nhikolai Đinh) là người mẫu, diễn viên góp mặt trong nhiều MV của các ca sĩ như Bích Phương, Hồ Ngọc Hà...
+Trước Đinh Nhi Ko Lai, không ít nghệ sĩ [tiêu tan sự nghiệp](https://tienphong.vn/bo-van-hoa-phan-hoi-viec-siet-chat-kiem-tra-nghe-si-quang-cao-sai-su-that-post1626088.tpo) vì dính tới chất cấm. Cách đây chưa đầy một tháng, Chu Đăng Thanh (ca sĩ Chu Bin) bị tạm giữ để điều tra về hành vi tổ chức, [sử dụng trái phép chất ma túy](https://tienphong.vn/nong-chuyen-nguoi-noi-tieng-ung-xu-lech-chuan-post1645148.tpo). Chu Bin có sự nghiệp âm nhạc không nổi bật, từng tham gia cuộc thi _Vietnam Idol_ nhưng chỉ lọt Top 30.  
+| ![Trước khi bị bắt vì sử dụng trái phép chất ma túy, Chu Bin có sự nghiệp âm nhạc không nổi bật.](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo)  |  
+| --- |  
+|  Trước khi bị bắt vì sử dụng trái phép chất ma túy, Chu Bin có sự nghiệp âm nhạc không nổi bật.  |  
+Trong tháng 4/2023, hai diễn viên [Lệ Hằng](https://tienphong.vn/tag/l%e1%bb%87+h%e1%ba%b1ng.tpo "Lệ Hằng") và Hữu Tín cùng vướng vào vòng lao lý. Ngày 23/4, Công an quận Đống Đa, TP. Hà Nội khởi tố bị can đối với Bùi Thị Lệ Hằng (diễn viên Lệ Hằng) về tội mua bán trái phép chất ma túy. Lực lượng chức năng phát hiện Lệ Hằng mua bán trái phép ma túy tại phố Khâm Thiên.
+Qua quá trình làm việc, lực lượng chức năng thu giữ tang vật gần 0,7 gram ma túy tổng hợp. Tại trụ sở điều tra, Lệ Hằng khai nhận mua số ma túy trên với giá 500.000 đồng để bán lại kiếm lời.
+Lệ Hằng nổi tiếng nhờ các vai Bảo trong _Những ngọn nến trong đêm_ , Thanh sói trong _Cổ cồn trắng_ , Hoài "Thatcher" trong phim _Xin hãy tin em_. Năm 2012, nữ diễn viên tuyên bố giải nghệ và mất tích từ đó.
+Ngày 28/4/2023, TAND Quận 8 (TP.HCM) tuyên phạt bị cáo Trần [Hữu Tín](https://tienphong.vn/tag/h%e1%bb%afu+t%c3%adn.tpo "Hữu Tín") (diễn viên hài Hữu Tín) 7 năm 6 tháng tù về tội “tổ chức sử dụng trái phép chất ma túy”.  
+|  ![Diễn viên truyền hình nổi tiếng một thời gây sốc vì dính tới mua bán, sử dụng chất cấm.](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo)![Diễn viên truyền hình nổi tiếng một thời gây sốc vì dính tới mua bán, sử dụng chất cấm.](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo)  |  
+| --- |  
+| Diễn viên truyền hình nổi tiếng một thời gây sốc vì dính tới mua bán, sử dụng chất cấm.  |  
+Tại phiên tòa, bị cáo [Trần Hữu Tín ](https://tienphong.vn/dien-vien-hai-huu-tin-bi-de-nghi-truy-to-o-khung-hinh-phat-len-toi-15-nam-tu-post1482982.tpo)thừa nhận hành vi phạm tội, nói rằng biết ma túy có tác hại lớn đến sức khỏe, do có uống bia rượu không kiềm chế được nên sử dụng [ma túy](https://tienphong.vn/tag/ma+t%c3%bay.tpo "ma túy"). Trước khi bị bắt, Hữu Tín là diễn viên hài nổi tiếng phía Nam, tham gia nhiều game show như _Ơn giời cậu đây rồi, Nhanh như chớp._
+Năm 2008, Châu Việt Cường là một trong số những nghệ sĩ gây ồn ào làng giải trí vì sử dụng ma túy dẫn đến bị ảo giác, rồi dùng tỏi nhét vào miệng một cô gái khiến cô này tử vong. Nam ca sĩ lãnh án 13 năm tù.
+Diễn viên Hiệp "gà" cũng gần như đánh mất nghiệp diễn vì nghiện ngập. Anh từng đầu quân cho Nhà hát Tuổi trẻ, được trao giải trong _Gala cười_ của 2 năm (2004, 2005). Tuy nhiên, giữa lúc tên tuổi được đông đảo công chúng mến mộ, Hiệp "gà" sa vào tệ nạn.
+Năm 2007, nam diễn viên bị bắt vì tội tàng trữ ma túy, nhận bản án 2 năm tù. Vừa ra tù, anh trở lại với một vai nhỏ trong _Táo quân_ 2009. Sau đó, cái tên Hiệp "gà" cũng lu mờ dần khỏi giới giải trí.
+### **Chờ ban hành quy trình[xử phạt nghệ sĩ](https://tienphong.vn/tag/x%e1%bb%ad+ph%e1%ba%a1t+ngh%e1%bb%87+s%c4%a9.tpo "xử phạt nghệ sĩ")**
+Thời gian qua nhiều vụ tai tiếng, lùm xùm về phát ngôn hay thậm chí vi phạm pháp luật liên quan đến nghệ sĩ khiến công chúng không khỏi bất bình.
+Những hành vi lệch chuẩn ngày càng nghiêm trọng, vượt qua khỏi "khung báo động" của Bộ quy tắc ứng xử nghệ sĩ do Bộ Văn hóa, Thể thao và Du lịch (VHTTDL) ban hành năm 2021.
+Tại các buổi họp báo thường kỳ quý, [Bộ Thông tin và Truyền thông](https://tienphong.vn/so-thong-tin-va-truyen-thong-tra-loi-viec-xu-ly-angela-phuong-trinh-post1643991.tpo) (TT&TT) và Bộ VHTTDL nhiều lần đề cập vấn đề xử lý đối với nghệ sĩ vi phạm chuẩn mực đạo đức, pháp luật.  
+|  ![Hữu Tín \(trái\), Châu Việt Cường nhận bản án thích đáng.](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo)![Hữu Tín \(trái\), Châu Việt Cường nhận bản án thích đáng.](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo)  |  
+| --- |  
+| Hữu Tín (trái), Châu Việt Cường nhận bản án thích đáng.  |  
+Cuối năm 2023, đại diện Cục Pháp chế (Bộ VHTTDL) cho biết hai bộ đã phối hợp chặt chẽ để [xây dựng](https://tienphong.vn/dia-oc/ "xây dựng") quy trình xử lý (hạn chế phát sóng, biểu diễn, quảng cáo) đối với nghệ sĩ, người có ảnh hưởng trên mạng (KOLs) vi phạm pháp luật, trái thuần phong mỹ tục.
+Quy trình xử lý là Bộ TT&TT lập một danh sách nghệ sĩ vi phạm. Bộ VHTTDL dựa trên danh sách này và mức độ vi phạm chuẩn mực đạo đức, vi phạm quy định trong bộ quy tắc ứng xử dành cho người hoạt động nghệ thuật, sẽ có hình thức thông tin, phối hợp với các cơ quan liên quan, các cơ quan báo chí, truyền hình để kiểm soát sự hiện diện của những nghệ sĩ này (từ phương tiện thông tin đại chúng đến các hoạt động xã hội).
+Toàn bộ nội dung quy trình đã được xây dựng hoàn tất, lấy ý kiến của các Bộ Công an, Tư pháp và các bộ, ngành liên quan, báo cáo các cấp có thẩm quyền.
+Tháng 3, ông Lê Quang Tự Do - Cục trưởng Cục Phát thanh, Truyền hình và Thông tin điện tử (Bộ TT&TT) - cho biết Bộ TT&TT phối hợp với Bộ VHTTDL để triển khai giải pháp hạn chế việc xuất hiện của nghệ sĩ vi phạm trên sóng truyền hình, biểu diễn. Tuy nhiên, đây vẫn là hình thức mới, nhạy cảm, cần thêm chỉ thị để các đơn vị cấp dưới có cơ sở thực hiện quy chế này.
+Theo Phó vụ trưởng Vụ Pháp chế (Bộ VHTTDL) Nguyễn Thanh Sơn, đối với những nghệ sĩ, người có ảnh hưởng vi phạm bộ quy tắc ứng xử trong lĩnh vực nghệ thuật, không trung thực trong quảng cáo, cung cấp sai thông tin tới công chúng… ngoài việc bị xử lý theo quy định pháp luật, Bộ VHTTDL và Bộ TT&TT sẽ đưa vào diện xem xét kiểm soát, hạn chế hình ảnh, hoạt động.
+[ ![NSND Xuân Bắc giành huy chương Vàng](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/nsnd-xuan-bac-gianh-huy-chuong-vang-post1649778.tpo "NSND Xuân Bắc giành huy chương Vàng")
+## [ NSND Xuân Bắc giành huy chương Vàng ](https://tienphong.vn/nsnd-xuan-bac-gianh-huy-chuong-vang-post1649778.tpo "NSND Xuân Bắc giành huy chương Vàng")
+[ ![Loạn thuyết pháp gây hoang mang: Quy tắc của Giáo hội ](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/loan-thuyet-phap-gay-hoang-mang-quy-tac-cua-giao-hoi-post1649128.tpo "Loạn thuyết pháp gây hoang mang: Quy tắc của Giáo hội ")
+## [ Loạn thuyết pháp gây hoang mang: Quy tắc của Giáo hội ](https://tienphong.vn/loan-thuyet-phap-gay-hoang-mang-quy-tac-cua-giao-hoi-post1649128.tpo "Loạn thuyết pháp gây hoang mang: Quy tắc của Giáo hội ")
+[ ![Vén màn những cuộc khủng hoảng truyền thông ở Việt Nam ](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/ven-man-nhung-cuoc-khung-hoang-truyen-thong-o-viet-nam-post1648347.tpo "Vén màn những cuộc khủng hoảng truyền thông ở Việt Nam ")
+## [ Vén màn những cuộc khủng hoảng truyền thông ở Việt Nam ](https://tienphong.vn/ven-man-nhung-cuoc-khung-hoang-truyen-thong-o-viet-nam-post1648347.tpo "Vén màn những cuộc khủng hoảng truyền thông ở Việt Nam ")
+[ ![Sở Thông tin và Truyền thông trả lời việc xử lý Angela Phương Trinh ](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/so-thong-tin-va-truyen-thong-tra-loi-viec-xu-ly-angela-phuong-trinh-post1643991.tpo "Sở Thông tin và Truyền thông trả lời việc xử lý Angela Phương Trinh ")
+## [ Sở Thông tin và Truyền thông trả lời việc xử lý Angela Phương Trinh ](https://tienphong.vn/so-thong-tin-va-truyen-thong-tra-loi-viec-xu-ly-angela-phuong-trinh-post1643991.tpo "Sở Thông tin và Truyền thông trả lời việc xử lý Angela Phương Trinh ")
+Thu An
+[#Đinh Nhi Ko Lai](https://tienphong.vn/tu-khoa.tpo?q=%C4%90inh%20Nhi%20Ko%20Lai "Đinh Nhi Ko Lai") [#nghệ sĩ](https://tienphong.vn/tu-khoa/nghe-si-tag150039.tpo "nghệ sĩ") [#xử phạt nghệ sĩ](https://tienphong.vn/tu-khoa.tpo?q=x%E1%BB%AD%20ph%E1%BA%A1t%20ngh%E1%BB%87%20s%C4%A9 "xử phạt nghệ sĩ") [#Lệ Hằng](https://tienphong.vn/tu-khoa/le-hang-tag127700.tpo "Lệ Hằng") [#Hiệp gà](https://tienphong.vn/tu-khoa/hiep-ga-tag100732.tpo "Hiệp gà") [#Hữu Tín](https://tienphong.vn/tu-khoa/huu-tin-tag110495.tpo "Hữu Tín") [#mua bán trái phép](https://tienphong.vn/tu-khoa/mua-ban-trai-phep-tag143406.tpo "mua bán trái phép") [#chất cấm](https://tienphong.vn/tu-khoa/chat-cam-tag37628.tpo "chất cấm") [#ma túy](https://tienphong.vn/tu-khoa/ma-tuy-tag135039.tpo "ma túy")
+###  Xem thêm
+[ ![Cái kết của 'Người một nhà'](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/cai-ket-cua-nguoi-mot-nha-post1648427.tpo "Cái kết của 'Người một nhà'")
+##  [ Cái kết của 'Người một nhà' ](https://tienphong.vn/cai-ket-cua-nguoi-mot-nha-post1648427.tpo "Cái kết của 'Người một nhà'")
+##  [ Diễm Hằng 'Nhật ký Vàng Anh' sau biến cố ](https://tienphong.vn/diem-hang-nhat-ky-vang-anh-sau-bien-co-post1648038.tpo "Diễm Hằng 'Nhật ký Vàng Anh' sau biến cố")
+##  [ Khán giả sốc vì cảnh phim của Lương Thu Trang quá vô lý ](https://tienphong.vn/khan-gia-soc-vi-canh-phim-cua-luong-thu-trang-qua-vo-ly-post1645798.tpo "Khán giả sốc vì cảnh phim của Lương Thu Trang quá vô lý")
+##  [ Từ vụ người mẫu Châu Bùi bị quay lén: Nghệ sĩ và nguy cơ bị lộ hình ảnh nhạy cảm ](https://tienphong.vn/tu-vu-nguoi-mau-chau-bui-bi-quay-len-nghe-si-va-nguy-co-bi-lo-hinh-anh-nhay-cam-post1649712.tpo "Từ vụ người mẫu Châu Bùi bị quay lén: Nghệ sĩ và nguy cơ bị lộ hình ảnh nhạy cảm ")
+##  [ Mùa hè trầm lắng của điện ảnh Việt ](https://tienphong.vn/mua-he-tram-lang-cua-dien-anh-viet-post1649096.tpo "Mùa hè trầm lắng của điện ảnh Việt")
+### Bình luận
+[Đăng nhập](javascript:void\(0\);) hoặc [Tạo tài khoản](javascript:void\(0\);) để tham gia bình luận
+Gửi 
+Xin vui lòng gõ tiếng Việt có dấu
+Nguyễn đức luận
+Nghệ sỹ là người của công chúng được rất nhiều người mến mộ mà không tu dưỡng đạo đức làm người vi phạm pháp luật thì càng phải xử phạt nghiêm minh làm gương cho quần chúng
+[Thích 0](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo#like) [Trả lời](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo#reply) [Báo cáo](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo#report)
+XEM THÊM BÌNH LUẬN
+###  [ Cùng chuyên mục ](https://tienphong.vn/van-hoa/ "Văn hóa")
+[ ![Đồng diễn múa Khmer của hơn 1.000 sinh viên Đại học Trà Vinh xác lập kỷ lục](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/dong-dien-mua-khmer-cua-hon-1000-sinh-vien-dai-hoc-tra-vinh-xac-lap-ky-luc-post1849566.tpo "Đồng diễn múa Khmer của hơn 1.000 sinh viên Đại học Trà Vinh xác lập kỷ lục")
+##  [ Đồng diễn múa Khmer của hơn 1.000 sinh viên Đại học Trà Vinh xác lập kỷ lục ](https://tienphong.vn/dong-dien-mua-khmer-cua-hon-1000-sinh-vien-dai-hoc-tra-vinh-xac-lap-ky-luc-post1849566.tpo "Đồng diễn múa Khmer của hơn 1.000 sinh viên Đại học Trà Vinh xác lập kỷ lục")
+[ ![30 sinh viên cạnh tranh làm MC](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/30-sinh-vien-canh-tranh-lam-mc-post1849605.tpo "30 sinh viên cạnh tranh làm MC")
+##  [ 30 sinh viên cạnh tranh làm MC ](https://tienphong.vn/30-sinh-vien-canh-tranh-lam-mc-post1849605.tpo "30 sinh viên cạnh tranh làm MC")
+[ ![Sĩ tử đổ về Văn Miếu nhận xoài](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/si-tu-do-ve-van-mieu-nhan-xoai-post1849525.tpo "Sĩ tử đổ về Văn Miếu nhận xoài")
+##  [ Sĩ tử đổ về Văn Miếu nhận xoài ](https://tienphong.vn/si-tu-do-ve-van-mieu-nhan-xoai-post1849525.tpo "Sĩ tử đổ về Văn Miếu nhận xoài")
+[ ![NSND Kim Xuân, đạo diễn Bùi Thạc Chuyên chấm hơn 100 bộ phim ở Liên hoan phim ngắn TPHCM ](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/nsnd-kim-xuan-dao-dien-bui-thac-chuyen-cham-hon-100-bo-phim-o-lien-hoan-phim-ngan-tphcm-post1849465.tpo "NSND Kim Xuân, đạo diễn Bùi Thạc Chuyên chấm hơn 100 bộ phim ở Liên hoan phim ngắn TPHCM ")
+##  [ NSND Kim Xuân, đạo diễn Bùi Thạc Chuyên chấm hơn 100 bộ phim ở Liên hoan phim ngắn TPHCM ](https://tienphong.vn/nsnd-kim-xuan-dao-dien-bui-thac-chuyen-cham-hon-100-bo-phim-o-lien-hoan-phim-ngan-tphcm-post1849465.tpo "NSND Kim Xuân, đạo diễn Bùi Thạc Chuyên chấm hơn 100 bộ phim ở Liên hoan phim ngắn TPHCM ")
+[ ![Hàng nghìn người đổ về đêm khai hội Vía Bà Chúa Xứ Núi Sam](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/hang-nghin-nguoi-do-ve-dem-khai-hoi-via-ba-chua-xu-nui-sam-post1849407.tpo "Hàng nghìn người đổ về đêm khai hội Vía Bà Chúa Xứ Núi Sam")
+##  [ Hàng nghìn người đổ về đêm khai hội Vía Bà Chúa Xứ Núi Sam ](https://tienphong.vn/hang-nghin-nguoi-do-ve-dem-khai-hoi-via-ba-chua-xu-nui-sam-post1849407.tpo "Hàng nghìn người đổ về đêm khai hội Vía Bà Chúa Xứ Núi Sam")
+[ ![Quang Lê và Lệ Quyên hát Đoạn buồn đêm mưa](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/rac-roi-thoi-nhac-si-nuong-tua-post1849179.tpo "Rắc rối thời nhạc sĩ 'nương tựa' ")
+##  [ Rắc rối thời nhạc sĩ 'nương tựa' ](https://tienphong.vn/rac-roi-thoi-nhac-si-nuong-tua-post1849179.tpo "Rắc rối thời nhạc sĩ 'nương tựa' ")
+[ ![Điểm nghẽn lớn nhất của điện ảnh Việt](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/diem-nghen-lon-nhat-cua-dien-anh-viet-post1849307.tpo "Điểm nghẽn lớn nhất của điện ảnh Việt")
+##  [ Điểm nghẽn lớn nhất của điện ảnh Việt ](https://tienphong.vn/diem-nghen-lon-nhat-cua-dien-anh-viet-post1849307.tpo "Điểm nghẽn lớn nhất của điện ảnh Việt")
+[ ![Từ vụ nghệ sĩ Lê Giang không chấp nhận lời xin lỗi của ê-kíp Sơn Tùng](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/tu-vu-nghe-si-le-giang-khong-chap-nhan-loi-xin-loi-cua-e-kip-son-tung-post1849290.tpo "Từ vụ nghệ sĩ Lê Giang không chấp nhận lời xin lỗi của ê-kíp Sơn Tùng")
+##  [ Từ vụ nghệ sĩ Lê Giang không chấp nhận lời xin lỗi của ê-kíp Sơn Tùng ](https://tienphong.vn/tu-vu-nghe-si-le-giang-khong-chap-nhan-loi-xin-loi-cua-e-kip-son-tung-post1849290.tpo "Từ vụ nghệ sĩ Lê Giang không chấp nhận lời xin lỗi của ê-kíp Sơn Tùng")
+[ ![Chưa thực sự tạo được cú hích cho công nghiệp văn hóa](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/chua-thuc-su-tao-duoc-cu-hich-cho-cong-nghiep-van-hoa-post1849250.tpo "Chưa thực sự tạo được cú hích cho công nghiệp văn hóa")
+##  [ Chưa thực sự tạo được cú hích cho công nghiệp văn hóa ](https://tienphong.vn/chua-thuc-su-tao-duoc-cu-hich-cho-cong-nghiep-van-hoa-post1849250.tpo "Chưa thực sự tạo được cú hích cho công nghiệp văn hóa")
+Xem thêm
+###  [ Xã hội ](https://tienphong.vn/xa-hoi/ "Xã hội")
+[ ![Thủ tướng Lê Minh Hưng chủ trì lễ đón Thủ tướng Campuchia Hun Manet](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/thu-tuong-le-minh-hung-chu-tri-le-don-thu-tuong-campuchia-hun-manet-post1849676.tpo "Thủ tướng Lê Minh Hưng chủ trì lễ đón Thủ tướng Campuchia Hun Manet")
+##  [ Thủ tướng Lê Minh Hưng chủ trì lễ đón Thủ tướng Campuchia Hun Manet ](https://tienphong.vn/thu-tuong-le-minh-hung-chu-tri-le-don-thu-tuong-campuchia-hun-manet-post1849676.tpo "Thủ tướng Lê Minh Hưng chủ trì lễ đón Thủ tướng Campuchia Hun Manet")
+[ ![Không khí lạnh tràn xuống tháng 6, có bất thường?](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/khong-khi-lanh-tran-xuong-thang-6-co-bat-thuong-post1849675.tpo "Không khí lạnh tràn xuống tháng 6, có bất thường?")
+##  [ Không khí lạnh tràn xuống tháng 6, có bất thường? ](https://tienphong.vn/khong-khi-lanh-tran-xuong-thang-6-co-bat-thuong-post1849675.tpo "Không khí lạnh tràn xuống tháng 6, có bất thường?")
+[ ![Thủ tướng Campuchia và Phu nhân đến Hà Nội, bắt đầu thăm chính thức Việt Nam ](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/thu-tuong-campuchia-va-phu-nhan-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-post1849630.tpo "Thủ tướng Campuchia và Phu nhân đến Hà Nội, bắt đầu thăm chính thức Việt Nam ")
+##  [ Thủ tướng Campuchia và Phu nhân đến Hà Nội, bắt đầu thăm chính thức Việt Nam ](https://tienphong.vn/thu-tuong-campuchia-va-phu-nhan-den-ha-noi-bat-dau-tham-chinh-thuc-viet-nam-post1849630.tpo "Thủ tướng Campuchia và Phu nhân đến Hà Nội, bắt đầu thăm chính thức Việt Nam ")
+###  [ Pháp luật ](https://tienphong.vn/phap-luat/ "Pháp luật")
+[ ](https://tienphong.vn/vu-tau-hoa-dam-xe-tai-o-ha-noi-cuc-csgt-de-nghi-xem-xet-trach-nhiem-cua-tai-xe-o-to-post1849670.tpo "Vụ tàu hỏa đâm xe tải ở Hà Nội: Cục CSGT đề nghị xem xét trách nhiệm của tài xế ô tô")
+##  [ Vụ tàu hỏa đâm xe tải ở Hà Nội: Cục CSGT đề nghị xem xét trách nhiệm của tài xế ô tô ](https://tienphong.vn/vu-tau-hoa-dam-xe-tai-o-ha-noi-cuc-csgt-de-nghi-xem-xet-trach-nhiem-cua-tai-xe-o-to-post1849670.tpo "Vụ tàu hỏa đâm xe tải ở Hà Nội: Cục CSGT đề nghị xem xét trách nhiệm của tài xế ô tô")
+[ ![Công an xác minh vụ việc nghi bạo hành, sử dụng trẻ em bán hàng rong ở TPHCM](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/cong-an-xac-minh-vu-viec-nghi-bao-hanh-su-dung-tre-em-ban-hang-rong-o-tphcm-post1849633.tpo "Công an xác minh vụ việc nghi bạo hành, sử dụng trẻ em bán hàng rong ở TPHCM")
+##  [ Công an xác minh vụ việc nghi bạo hành, sử dụng trẻ em bán hàng rong ở TPHCM ](https://tienphong.vn/cong-an-xac-minh-vu-viec-nghi-bao-hanh-su-dung-tre-em-ban-hang-rong-o-tphcm-post1849633.tpo "Công an xác minh vụ việc nghi bạo hành, sử dụng trẻ em bán hàng rong ở TPHCM")
+[ ![Mang dao tìm anh rể đòi 'công bằng' cho chị gái, người em nhận án tù dài ](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/mang-dao-tim-anh-re-doi-cong-bang-cho-chi-gai-nguoi-em-nhan-an-tu-dai-post1849506.tpo "Mang dao tìm anh rể đòi 'công bằng' cho chị gái, người em nhận án tù dài ")
+##  [ Mang dao tìm anh rể đòi 'công bằng' cho chị gái, người em nhận án tù dài ](https://tienphong.vn/mang-dao-tim-anh-re-doi-cong-bang-cho-chi-gai-nguoi-em-nhan-an-tu-dai-post1849506.tpo "Mang dao tìm anh rể đòi 'công bằng' cho chị gái, người em nhận án tù dài ")
+###  [ Giải trí ](https://tienphong.vn/giai-tri/ "Giải trí")
+[ !['Ma xó' có NSƯT Hạnh Thúy thu 55 tỷ đồng mở màn](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/ma-xo-co-nsut-hanh-thuy-thu-55-ty-dong-mo-man-post1849642.tpo "'Ma xó' có NSƯT Hạnh Thúy thu 55 tỷ đồng mở màn")
+##  [ 'Ma xó' có NSƯT Hạnh Thúy thu 55 tỷ đồng mở màn ](https://tienphong.vn/ma-xo-co-nsut-hanh-thuy-thu-55-ty-dong-mo-man-post1849642.tpo "'Ma xó' có NSƯT Hạnh Thúy thu 55 tỷ đồng mở màn")
+[ ](https://tienphong.vn/nguoi-dang-tao-nen-con-dia-chan-truoc-world-cup-2026-da-den-viet-nam-post1849460.tpo "Người đang tạo nên cơn địa chấn trước World Cup 2026 đã đến Việt Nam")
+##  [ Người đang tạo nên cơn địa chấn trước World Cup 2026 đã đến Việt Nam ](https://tienphong.vn/nguoi-dang-tao-nen-con-dia-chan-truoc-world-cup-2026-da-den-viet-nam-post1849460.tpo "Người đang tạo nên cơn địa chấn trước World Cup 2026 đã đến Việt Nam")
+[ ![Lệnh cấm làm chao đảo giới giải trí](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/lenh-cam-lam-chao-dao-gioi-giai-tri-post1849555.tpo "Lệnh cấm làm chao đảo giới giải trí")
+##  [ Lệnh cấm làm chao đảo giới giải trí ](https://tienphong.vn/lenh-cam-lam-chao-dao-gioi-giai-tri-post1849555.tpo "Lệnh cấm làm chao đảo giới giải trí")
+###  [ Thế giới ](https://tienphong.vn/the-gioi/ "Thế giới")
+[ ![Rộ tin Mỹ muốn mua lại quần đảo chiến lược ở Ấn Độ Dương](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/ro-tin-my-muon-mua-lai-quan-dao-chien-luoc-o-an-do-duong-post1849644.tpo "Rộ tin Mỹ muốn mua lại quần đảo chiến lược ở Ấn Độ Dương")
+##  [ Rộ tin Mỹ muốn mua lại quần đảo chiến lược ở Ấn Độ Dương ](https://tienphong.vn/ro-tin-my-muon-mua-lai-quan-dao-chien-luoc-o-an-do-duong-post1849644.tpo "Rộ tin Mỹ muốn mua lại quần đảo chiến lược ở Ấn Độ Dương")
+[ ![Tỷ phú Nga Abramovich tới Ukraine chuyển thông điệp](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/ty-phu-nga-abramovich-toi-ukraine-chuyen-thong-diep-post1849626.tpo "Tỷ phú Nga Abramovich tới Ukraine chuyển thông điệp")
+##  [ Tỷ phú Nga Abramovich tới Ukraine chuyển thông điệp ](https://tienphong.vn/ty-phu-nga-abramovich-toi-ukraine-chuyen-thong-diep-post1849626.tpo "Tỷ phú Nga Abramovich tới Ukraine chuyển thông điệp")
+[ ![Triều Tiên tổ chức lễ đón trọng thể dành cho Tổng Bí thư-Chủ tịch nước Trung Quốc Tập Cận Bình tại sân bay quốc tế Sunan ở Bình Nhưỡng, ngày 20/6/2019. Ảnh: Xinhua.](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/chu-tich-trung-quoc-tap-can-binh-tham-trieu-tien-se-thao-luan-van-de-hat-nhan-ket-noi-voi-nga-post1849652.tpo "Chủ tịch Trung Quốc Tập Cận Bình thăm Triều Tiên: Sẽ thảo luận vấn đề hạt nhân, kết nối với Nga?")
+##  [ Chủ tịch Trung Quốc Tập Cận Bình thăm Triều Tiên: Sẽ thảo luận vấn đề hạt nhân, kết nối với Nga? ](https://tienphong.vn/chu-tich-trung-quoc-tap-can-binh-tham-trieu-tien-se-thao-luan-van-de-hat-nhan-ket-noi-voi-nga-post1849652.tpo "Chủ tịch Trung Quốc Tập Cận Bình thăm Triều Tiên: Sẽ thảo luận vấn đề hạt nhân, kết nối với Nga?")
+[ ![Mỹ không có kế hoạch rút quân tham chiến tại Iran, tuyên bố sẵn sàng điều binh thu hồi vật liệu hạt nhân](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/my-khong-co-ke-hoach-rut-quan-tham-chien-tai-iran-tuyen-bo-san-sang-dieu-binh-thu-hoi-vat-lieu-hat-nhan-post1849638.tpo "Mỹ không có kế hoạch rút quân tham chiến tại Iran, tuyên bố sẵn sàng điều binh thu hồi vật liệu hạt nhân")
+##  [ Mỹ không có kế hoạch rút quân tham chiến tại Iran, tuyên bố sẵn sàng điều binh thu hồi vật liệu hạt nhân ](https://tienphong.vn/my-khong-co-ke-hoach-rut-quan-tham-chien-tai-iran-tuyen-bo-san-sang-dieu-binh-thu-hoi-vat-lieu-hat-nhan-post1849638.tpo "Mỹ không có kế hoạch rút quân tham chiến tại Iran, tuyên bố sẵn sàng điều binh thu hồi vật liệu hạt nhân")
+[ ![Philippines rung chuyển vì động đất mạnh 8,2 độ, nguy cơ xuất hiện sóng thần](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/philippines-rung-chuyen-vi-dong-dat-manh-82-do-nguy-co-xuat-hien-song-than-post1849629.tpo "Philippines rung chuyển vì động đất mạnh 8,2 độ, nguy cơ xuất hiện sóng thần")
+##  [ Philippines rung chuyển vì động đất mạnh 8,2 độ, nguy cơ xuất hiện sóng thần ](https://tienphong.vn/philippines-rung-chuyen-vi-dong-dat-manh-82-do-nguy-co-xuat-hien-song-than-post1849629.tpo "Philippines rung chuyển vì động đất mạnh 8,2 độ, nguy cơ xuất hiện sóng thần")
+[ ![Tổng thống Mỹ Donald Trump gửi lời tới Iran](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/tong-thong-my-donald-trump-gui-loi-toi-iran-post1849616.tpo "Tổng thống Mỹ Donald Trump gửi lời tới Iran")
+##  [ Tổng thống Mỹ Donald Trump gửi lời tới Iran ](https://tienphong.vn/tong-thong-my-donald-trump-gui-loi-toi-iran-post1849616.tpo "Tổng thống Mỹ Donald Trump gửi lời tới Iran")
+[ ](https://tienphong.vn/iran-phong-loat-ten-lua-dan-dao-ve-phia-israel-dua-ra-loi-canh-bao-danh-thep-post1849623.tpo "Iran phóng loạt tên lửa đạn đạo về phía Israel, đưa ra lời cảnh báo đanh thép")
+##  [ Iran phóng loạt tên lửa đạn đạo về phía Israel, đưa ra lời cảnh báo đanh thép ](https://tienphong.vn/iran-phong-loat-ten-lua-dan-dao-ve-phia-israel-dua-ra-loi-canh-bao-danh-thep-post1849623.tpo "Iran phóng loạt tên lửa đạn đạo về phía Israel, đưa ra lời cảnh báo đanh thép")
+###  [ Sức khỏe ](https://tienphong.vn/suc-khoe/ "Sức khỏe")
+[ ![Trái tim của người đàn ông 32 tuổi cứu bé trai đang cận kề 'cửa tử'](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/trai-tim-cua-nguoi-dan-ong-32-tuoi-cuu-be-trai-dang-can-ke-cua-tu-post1849645.tpo "Trái tim của người đàn ông 32 tuổi cứu bé trai đang cận kề 'cửa tử'")
+##  [ Trái tim của người đàn ông 32 tuổi cứu bé trai đang cận kề 'cửa tử' ](https://tienphong.vn/trai-tim-cua-nguoi-dan-ong-32-tuoi-cuu-be-trai-dang-can-ke-cua-tu-post1849645.tpo "Trái tim của người đàn ông 32 tuổi cứu bé trai đang cận kề 'cửa tử'")
+[ ![32 độ C lúc 1 giờ sáng, người nhà bệnh nhân trắng đêm vì nóng](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/32-do-c-luc-1-gio-sang-nguoi-nha-benh-nhan-trang-dem-vi-nong-post1849621.tpo "32 độ C lúc 1 giờ sáng, người nhà bệnh nhân trắng đêm vì nóng")
+##  [ 32 độ C lúc 1 giờ sáng, người nhà bệnh nhân trắng đêm vì nóng ](https://tienphong.vn/32-do-c-luc-1-gio-sang-nguoi-nha-benh-nhan-trang-dem-vi-nong-post1849621.tpo "32 độ C lúc 1 giờ sáng, người nhà bệnh nhân trắng đêm vì nóng")
+[ ![Tham vọng đưa Việt Nam vào bản đồ công nghệ điều trị đột quỵ](https://tienphong.vn/nhieu-nghe-si-viet-bi-bat-vi-dinh-vao-ma-tuy-post1649760.tpo) ](https://tienphong.vn/tham-vong-dua-viet-nam-vao-ban-do-cong-nghe-dieu-tri-dot-quy-post1849580.tpo "Tham vọng đưa Việt Nam vào bản đồ công nghệ điều trị đột quỵ")
+##  [ Tham vọng đưa Việt Nam vào bản đồ công nghệ điều trị đột quỵ ](https://tienphong.vn/tham-vong-dua-viet-nam-vao-ban-do-cong-nghe-dieu-tri-dot-quy-post1849580.tpo "Tham vọng đưa Việt Nam vào bản đồ công nghệ điều trị đột quỵ")
+[Báo điện tử Tiền Phong](https://tienphong.vn "Báo điện tử Tiền Phong")
+  * [](https://svvn.tienphong.vn "Sinh viên Việt Nam")
+  * [](https://hoahoctro.tienphong.vn "Hoa học trò")
+
+
+[Video](https://tienphong.vn/video-clip/ "Video") [Nhật báo](https://tienphong.vn/nhat-bao/ "Nhật báo") [Ảnh](https://tienphong.vn/photo/ "Ảnh") [Podcast](https://tienphong.vn/podcast/ "Podcast") [Longform](https://tienphong.vn/longform/ "Longform") [Infographics](https://tienphong.vn/infographics/ "Infographics")
+[Xã hội](https://tienphong.vn/xa-hoi/ "Xã hội") [Kinh tế](https://tienphong.vn/kinh-te/ "Kinh tế") [Địa ốc](https://tienphong.vn/dia-oc/ "Địa ốc") [Sóng xanh](https://tienphong.vn/song-xanh/ "Sóng xanh") [Sức khỏe](https://tienphong.vn/suc-khoe/ "Sức khỏe") [Giới trẻ](https://tienphong.vn/gioi-tre/ "Giới trẻ") [Pháp luật](https://tienphong.vn/phap-luat/ "Pháp luật") [Thể thao](https://tienphong.vn/the-thao/ "Thể thao") [Người lính](https://tienphong.vn/hanh-trang-nguoi-linh/ "Người lính") [Xe](https://tienphong.vn/xe/ "Xe") [Văn hóa](https://tienphong.vn/van-hoa/ "Văn hóa") [Giải trí](https://tienphong.vn/giai-tri/ "Giải trí") [Giáo dục](https://tienphong.vn/giao-duc/ "Giáo dục") [Khoa học](https://tienphong.vn/khoa-hoc/ "Khoa học") [Hoa hậu](https://tienphong.vn/hoa-hau/ "Hoa hậu") [Bạn đọc](https://tienphong.vn/ban-doc/ "Bạn đọc") [Hàng không - Du lịch](https://tienphong.vn/hang-khong-du-lich/ "Hàng không - Du lịch") [Thế giới](https://tienphong.vn/the-gioi/ "Thế giới") [Nhịp sống Thủ đô](https://tienphong.vn/nhip-song-thu-do/ "Nhịp sống Thủ đô") [Nhịp sống phương Nam](https://tienphong.vn/nhip-song-phuong-nam/ "Nhịp sống phương Nam")
+[Tòa soạn](https://tienphong.vn/toa-soan.tpo) D29, Phạm Văn Bạch, P.Cầu Giấy, Hà Nội [024.39431250](tel:+842439431250)
+[Liên hệ quảng cáo](https://tienphong.vn/quang-cao.tpo) [0909559988](tel:+84909559988) booking@baotienphong.com.vn
+Đặt mua báo in [(024)39439664](tel:+842439439664) [0908988666](tel:+84908988666)
+Theo dõi BÁO TIỀN PHONG trên
+[ ](https://www.facebook.com/www.tienphong.vn/ "facebook") [ ](https://www.youtube.com/@baotienphong "youtube") [ ](https://www.tiktok.com/@baotienphong.official "tiktok") [ ](https://zalo.me/783607375436573981 "zalo") [ ](https://news.google.com/publications/CAAqJggKIiBDQklTRWdnTWFnNEtESFJwWlc1d2FHOXVaeTUyYmlnQVAB?hl=vi&gl=VN&ceid=VN%3Avi "Google news")
+[Chính sách bảo mật](https://tienphong.vn/policy.html)
+Cơ quan chủ quản: **Trung ương Đoàn TNCS Hồ Chí Minh**
+Tổng Biên tập: **PHÙNG CÔNG SƯỞNG**
+[ Bạn đọc làm báo ](https://tienphong.vn/ban-doc-lam-bao.tpo "Bạn đọc làm báo")
+Giấy phép số **76/GP-BTTTT** , cấp ngày **26/02/2020.**
+© Bản quyền thuộc báo **Tiền Phong**
+Cấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn bản
+Thiết kế và phát triển bởi [**Hemera Media** ](https://hemera.vn/)

@@ -1,0 +1,25 @@
+[project]
+name = "day08-rag-pipeline-v2"
+version = "0.1.0"
+description = "Day 8 — RAG Pipeline v2: legal + news RAG over Vietnamese drug-law data"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0",
+    "openai>=1.30.0",
+    "langchain-text-splitters>=0.2.0",
+    "weaviate-client>=4.5.0",
+    "crawl4ai>=0.4.0",
+    "markitdown[pdf]>=0.0.1",
+    "pageindex>=0.1.0",
+    "streamlit>=1.36.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+]
+
+[tool.uv]
+package = false
