@@ -1,17 +1,77 @@
 [
   {
     "question": "Hình phạt cho tội tàng trữ trái phép chất ma tuý theo Điều 249 Bộ luật Hình sự?",
-    "expected_answer": "Phạt tù từ 1 đến 5 năm đối với trường hợp tàng trữ từ 1g đến dưới 5g heroin hoặc cocaine, hoặc chất ma tuý khác với khối lượng tương đương.",
-    "expected_context": "Bộ luật Hình sự 2015, Điều 249"
+    "expected_answer": "Người nào tàng trữ trái phép chất ma túy mà không nhằm mục đích mua bán, vận chuyển, sản xuất trái phép chất ma túy thì bị phạt tù từ 01 năm đến 05 năm (hoặc cao hơn tùy mức độ).",
+    "expected_context": "Bộ luật Hình sự 2015 - Điều 249"
   },
   {
     "question": "Luật Phòng chống ma tuý 2021 quy định những hình thức cai nghiện nào?",
-    "expected_answer": "Cai nghiện tự nguyện tại gia đình, cai nghiện tự nguyện tại cộng đồng, cai nghiện tự nguyện tại cơ sở cai nghiện, và cai nghiện bắt buộc tại cơ sở cai nghiện.",
-    "expected_context": "Luật Phòng chống ma tuý 2021, Chương V"
+    "expected_answer": "Các biện pháp cai nghiện ma túy bao gồm: Cai nghiện ma túy tự nguyện và Cai nghiện ma túy bắt buộc.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 28"
   },
   {
-    "question": "Danh mục các chất ma tuý thuộc nhóm I theo quy định pháp luật Việt Nam gồm những chất nào?",
-    "expected_answer": "Nhóm I gồm các chất ma tuý tuyệt đối cấm sử dụng trong y học và đời sống, bao gồm heroin, cocaine, methamphetamine, MDMA (ecstasy), cannabis (cần sa), và các chất tương tự.",
-    "expected_context": "Nghị định 57/2022/NĐ-CP, Phụ lục I"
+    "question": "Chất ma túy là gì theo Luật Phòng, chống ma túy 2021?",
+    "expected_answer": "Chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 2"
+  },
+  {
+    "question": "Người sử dụng trái phép chất ma túy là ai?",
+    "expected_answer": "Là người có hành vi sử dụng chất ma túy mà không được sự cho phép của người hoặc cơ quan chuyên môn có thẩm quyền và xét nghiệm chất ma túy trong cơ thể có kết quả dương tính.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 2"
+  },
+  {
+    "question": "Thời hạn quản lý người sử dụng trái phép chất ma túy là bao lâu?",
+    "expected_answer": "Thời hạn quản lý người sử dụng trái phép chất ma túy là 01 năm kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã ra quyết định quản lý.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 23"
+  },
+  {
+    "question": "Quy trình cai nghiện ma túy bao gồm những giai đoạn nào?",
+    "expected_answer": "Quy trình cai nghiện ma túy bao gồm các giai đoạn: Tiếp nhận, phân loại; Điều trị cắt cơn, giải độc, điều trị các rối loạn tâm thần, điều trị các bệnh lý khác; Giáo dục, tư vấn, phục hồi hành vi, nhân cách; Lao động trị liệu, học nghề; Chuẩn bị tái hòa nhập cộng đồng.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 29"
+  },
+  {
+    "question": "Cai nghiện ma túy tự nguyện tại gia đình, cộng đồng có thời hạn bao lâu?",
+    "expected_answer": "Thời hạn cai nghiện ma túy tự nguyện tại gia đình, cộng đồng là từ đủ 06 tháng đến 12 tháng.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 30"
+  },
+  {
+    "question": "Nguồn tài chính cho phòng, chống ma túy được lấy từ đâu?",
+    "expected_answer": "Ngân sách nhà nước; Nguồn tài trợ, viện trợ, đầu tư, tặng cho của tổ chức, cá nhân; Chi trả của gia đình, người nghiện ma túy; và Các nguồn tài chính hợp pháp khác.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 4"
+  },
+  {
+    "question": "Luật Phòng, chống ma túy 2021 nghiêm cấm hành vi nào liên quan đến cây có chứa chất ma túy?",
+    "expected_answer": "Nghiêm cấm trồng cây có chứa chất ma túy, hướng dẫn trồng cây có chứa chất ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 5"
+  },
+  {
+    "question": "Trách nhiệm của cá nhân, gia đình trong phòng, chống ma túy là gì?",
+    "expected_answer": "Tuyên truyền, giáo dục thành viên trong gia đình về tác hại ma túy; Thực hiện đúng chỉ định của người có thẩm quyền về sử dụng thuốc gây nghiện; Hợp tác với cơ quan chức năng trong đấu tranh với tội phạm ma túy; Cung cấp kịp thời thông tin về tội phạm ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 6"
+  },
+  {
+    "question": "Người đang trong thời gian quản lý sử dụng trái phép chất ma túy sẽ bị ngừng quản lý khi nào?",
+    "expected_answer": "Khi được xác định là người nghiện ma túy; Bị áp dụng biện pháp giáo dục tại xã/phường/thị trấn; Bị đưa vào cơ sở giáo dục bắt buộc/trường giáo dưỡng; Phải thi hành án phạt tù; Hoặc đã chết, bị Tòa án tuyên bố là mất tích.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 23"
+  },
+  {
+    "question": "Tội sản xuất trái phép chất ma túy được quy định tại Điều nào của Bộ luật Hình sự?",
+    "expected_answer": "Tội sản xuất trái phép chất ma túy được quy định tại Điều 248 của Bộ luật Hình sự.",
+    "expected_context": "Bộ luật Hình sự - Điều 248"
+  },
+  {
+    "question": "Theo Bộ luật Hình sự, tội vận chuyển trái phép chất ma túy được quy định ở Điều nào?",
+    "expected_answer": "Tội vận chuyển trái phép chất ma túy được quy định tại Điều 250 của Bộ luật Hình sự.",
+    "expected_context": "Bộ luật Hình sự - Điều 250"
+  },
+  {
+    "question": "Trách nhiệm của cơ sở giáo dục trong phòng, chống ma túy là gì?",
+    "expected_answer": "Tổ chức chương trình giáo dục về phòng, chống ma túy; Phối hợp với gia đình và chính quyền để quản lý học sinh; Phối hợp xét nghiệm chất ma túy trong cơ thể khi cần thiết để phát hiện học sinh sử dụng trái phép chất ma túy.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 8"
+  },
+  {
+    "question": "Việc vận chuyển chất ma túy hợp pháp phải tuân thủ những quy định gì?",
+    "expected_answer": "Phải đóng gói, niêm phong theo quy định; chịu trách nhiệm về số lượng, chất lượng, có biện pháp bảo vệ an toàn không để bị thất thoát và chịu sự kiểm tra, giám sát của cơ quan nhà nước có thẩm quyền.",
+    "expected_context": "Luật Phòng, chống ma túy 2021 - Điều 14"
   }
 ]
