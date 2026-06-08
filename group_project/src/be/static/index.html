@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="vi">
+
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Drug Law RAG Chat</title>
+        <link rel="stylesheet" href="/static/styles.css" />
+    </head>
+
+    <body>
+        <main class="app-shell">
+            <aside class="sidebar">
+                <div class="sidebar-top">
+                    <button id="newChatButton" class="new-chat-button" type="button">+ Cuộc trò chuyện mới</button>
+                </div>
+
+                <section class="history-section">
+                    <div class="section-label">Lịch sử hội thoại</div>
+                    <div id="conversationList" class="conversation-list"></div>
+                </section>
+
+                <section class="settings-section">
+                    <div class="section-label">Cấu hình</div>
+
+                    <label class="field">
+                        <span>top_k sources</span>
+                        <input id="topKInput" type="number" min="1" max="10" value="5" />
+                    </label>
+
+                    <label class="check-row">
+                        <input id="rewriteInput" type="checkbox" checked />
+                        <span>Rewrite follow-up</span>
+                    </label>
+
+                    <label class="check-row">
+                        <input id="logsInput" type="checkbox" />
+                        <span>Pipeline logs</span>
+                    </label>
+                </section>
+
+                <footer class="sidebar-footer">
+                    <p id="healthStatus">Đang kiểm tra API...</p>
+                    <p>Session <code id="sessionLabel">new</code></p>
+                    <button id="resetButton" class="danger-button" type="button">Xoá session hiện tại</button>
+                </footer>
+            </aside>
+
+            <section class="chat-layout">
+                <header class="chat-header">
+                    <div>
+                        <h1>Drug Law RAG Chat</h1>
+                        <p>Answers include citations, follow-up memory, and source documents.</p>
+                    </div>
+                </header>
+
+                <div id="messages" class="messages"></div>
+
+                <div class="composer-wrap">
+                    <form id="chatForm" class="chat-form">
+                        <textarea id="messageInput" rows="1" placeholder="Message Drug Law RAG..." autocomplete="off"></textarea>
+                        <button id="sendButton" type="submit" aria-label="Gửi">↑</button>
+                    </form>
+                </div>
+            </section>
+        </main>
+
+        <script src="/static/app.js"></script>
+    </body>
+
+</html>

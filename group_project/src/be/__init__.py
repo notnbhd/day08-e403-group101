@@ -1,0 +1,1 @@
+"""FastAPI backend for the Day 8 RAG chatbot."""
