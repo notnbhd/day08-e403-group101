@@ -1,0 +1,27 @@
+# Day 8 — RAG Pipeline v2 (personal tasks 1-10)
+# Quản lý chính bằng uv (pyproject.toml). File này để cài bằng pip nếu cần:
+#     pip install -r requirements.txt
+#
+# Lưu ý: embeddings / rerank / LLM đều gọi qua OpenRouter (1 OPENROUTER_API_KEY),
+# nên KHÔNG cần torch / sentence-transformers.
+
+# Core
+python-dotenv>=1.0.0
+requests>=2.31.0
+openai>=1.30.0            # dùng với base_url = OpenRouter (Task 4 embeddings, Task 10 LLM)
+
+# Task 4 - Chunking & Indexing
+langchain-text-splitters>=0.2.0
+weaviate-client>=4.5.0    # Weaviate Cloud (dense + BM25 hybrid)
+
+# Task 2 - Crawling
+crawl4ai>=0.4.0
+
+# Task 3 - Document conversion
+markitdown>=0.0.1
+
+# Task 8 - PageIndex (vectorless RAG)
+pageindex>=0.1.0
+
+# Dev / grading
+pytest>=8.0.0
